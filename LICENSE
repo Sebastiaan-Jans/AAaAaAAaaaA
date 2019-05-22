@@ -1,1 +1,674 @@
-                     gnU gENerAL PuBliC LICeNse                        VeRsiON 3, 29 june 2007   COpyRiGHT (C) 2007 fREE sOFTwARe FoUndATIon, Inc. <hTTPS://fsf.orG/>  eVERYoNe is peRMItted To cOpY And DiStribuTe vErBAtIM copiEs  OF ThIs lICENsE doCumENT, but ChANgInG IT Is NOt AllOwed.                              pREAMblE    ThE GNU GENEraL pUBLIC LICeNSe iS a FREe, copylefT LiCEnSE foR SOfTware and OTher KindS of WOrKs.    ThE LICeNSEs fOr mOSt sOftWaRE And OTHEr PRaCTiCAl worKS are deSIGNED TO TaKE AWay YoUR fReeDOm To SharE and cHange thE WorkS.  by ConTRaSt, ThE gnU gENeRaL puBliC liceNsE IS InTendeD tO gUarANTEE yoUR frEeDOM to sHaRe AND ChAnGE alL veRsIONS oF a program--TO MAkE surE iT REMainS FreE soFtwarE For aLl ItS users.  WE, thE fRee sOfTwarE fOUNdATIOn, USE THE GNU GeNERaL pUBliC lICenSe fOr most OF Our sOFTWARe; it aPPlIES ALSO TO aNy oThER WoRk releAsed thIs way BY iTs aUtHoRs.  You caN aPPLy it To Your PROGrams, TOo.    when wE spEaK of FrEE sOftwARE, wE aRe REFERring TO FREEDom, Not PRICE.  oUr GENeraL PuBlIc liCeNSES ArE desigNEd TO MakE sUrE tHAt YOU HAvE thE FreedOm To DISTriBute CoPIes OF FrEe sOfTWaRE (aND cHaRge fOR tHEM If you wish), THAT yOU receiVE SOurCE CODE Or CAn gET IT If you WAnT It, tHaT yoU CAn CHanGE ThE sOFtwArE or uSE pIECEs of IT IN new Free ProGrAms, ANd tHat yoU KNow YoU cAn DO theSe THings.    tO ProTECT YOur RIgHTS, we need To PREVenT OTheRs from deNYING You tHEsE riGHTS OR ASKING YOu tO SURreNder tHE RigHTS.  THeReFORE, yOU hAvE ceRTaIN reSpOnSibIlitIes if yOU dIStRibuTe CopIes oF the softWaRe, OR iF yOU mODify It: RESPonsIBiLitiES TO REspECT thE frEEdoM oF OThErS.    foR ExaMPLe, IF yOu DiSTributE COpIES Of sUCH a prOgrAm, whEtHER grAtis OR fOR A FEE, YoU muSt paSS On to thE RECiPIeNTs THe SAme fREeDOMs thaT You RecEivED.  YOu MuST MAKE SurE ThAt theY, tOO, RECeIvE oR CAN gET thE soURCe codE.  AND yOU MuST SHow tHeM thesE TerMs sO THEy knoW tHEIr RiGhTS.    dEvEloPeRs tHAT USE The gnU gpL PrOteCT Your RIghtS wItH TwO STepS: (1) aSsERt CopYRIghT on tHE SofTWaRe, AnD (2) offer YOU THIS LICEnse GIVIng YOu Legal PeRmiSsioN To COpy, DistRIBUte ANd/or ModIFy It.    fOr THe DeVelOpErS' aND auThoRS' PrOteCTioN, tHE gpL cleaRLY explaINs thaT tHeRE is No wArraNTY FOr thiS FreE soFTwARE.  FOr bOtH UsERS' and AUTHOrS' SAkE, The gPl rEquIrEs ThAt MoDiFIeD veRsiOnS bE MaRkeD AS ChAngeD, sO tHAT theIr PRobLEmS wilL nOT Be AtTRIbuTED ERROneouSLY to aUtHOrS oF PrEVIoUS VerSIoNs.    sOMe deViCes are desIgNEd TO deny UsErs ACCesS To INStALL OR rUn ModIfIED VeRsioNS OF THE SoFtWare InSidE tHem, AlThoUgH The maNufACTURER cAn do sO.  THIS IS FUNDAmeNTALLY incoMPatIBLe witH tHe aiM of pROtecTiNG uSERS' FREEdom tO CHAnge the sOfTWAre.  the SyStematIc pATTErn of SUcH aBUse OCCuRS In THE area OF prodUCTs For InDiviDUaLs TO usE, wHich is pRecIsELY WHErE iT iS most unaCcEPTable.  theRefoRe, wE HaVE dESiGneD thIs VErSIon OF tHE gPL TO PRoHiBIt the PraCTicE For tHOsE PROduCtS.  IF sucH proBLEMs aRisE sUbSTANTialLY In OtHer dOMaiNs, we sTaND rEaDY TO extEnD THIS ProVisIon tO thOSe domaINS iN fUTUrE VersIONS of the gpL, As nEedED To pROTEcT tHe freEdOM of userS.    fiNaLLY, EVeRY pRoGRAm iS thREaTENeD cOnStAntlY BY SOftwaRE pATEnTs. STATes shOuLD not ALLOW PATEnts tO RestRiCT dEveLoPmENT anD use of SoftWARE On geneRal-PuRpOSE COmPuTeRS, bUt in tHOSE tHat DO, wE wiSH TO AVOiD THE speciAl DAngeR THAt pATenTs APPLIed tO a FreE PRogRaM cOulD make it EffecTively propRIeTARy.  tO PREvenT THIS, ThE GPl AssUres tHat PateNts CannOt be useD TO RENdER the PrOgRaM NON-Free.    tHe PreciSe teRmS And ConditIoNS FoR cOpYING, diStRibUTIoN ANd MODIfiCAtION follOW.                         tErms AnD conDITioNs    0. defInItIoNs.    "tHIs LIcEnSe" rEfERs TO VERSIOn 3 OF THe GnU gEneRal PUblic LiCEnSE.    "cOpyrIGht" AlsO mEanS CopYRIGHt-LIke laws thAt aPpLy tO oThER kinDS of WorKs, sUCh AS semIcOnDucTor MASKS.    "the pRoGRAM" rEfERS to ANY CoPyRIGhtaBLe WorK liCENSED uNDer tHIs LiCENse.  Each lIceNSeE IS adDREssED AS "You".  "LIcENseES" AND "rECipieNTs" mAy be inDIviDUALS Or orGAniZAtIons.    tO "moDifY" a wOrk MeaNS tO CopY fROm oR adaPT All oR parT OF tHe wOrK iN A fASHIOn ReQUiriNg coPYrIGHT PErMisSION, OthEr THan tHe maKiNg OF AN EXacT COPY.  tHE ReSultiNg work iS CALled A "moDiFIeD VErSiON" OF tHe eARLIER wORK oR A WORK "BasEd On" THE EArlIEr WoRK.    A "CovEred woRk" meANS eIthER the UNMOdifIeD pROGRaM OR a wORk bASED ON tHe PrOgram.    To "PROpagATE" a WOrK meANs To DO AnYTHINg WITh IT that, WiThOUt peRmiSSIon, WOUld maKE yOU dirECTlY oR SeCoNdarilY lIAbLe FOR inFrinGEMEnT uNdEr APpliCAblE COPYRIghT LAw, ExcEPt eXeCuting IT ON a COMpuTER OR mOdIFYing a PRiVAtE cOPy.  PRopAGATIOn inCLUDes coPYing, dISTributiON (With or WiTHoUT mODiFIcATIoN), MakInG aVaILAbLe tO the publiC, aND In somE cOUNTrIES OTHEr aCTIviTies aS WELl.    to "coNvEy" a WOrk MeAns aNy KiND of pROpAgaTiON tHAt enabLEs oTHer pARTIES TO makE oR RECEIVE CoPiES.  mErE InTeRAction WIth a UsER tHrOuGh a CoMpUTEr NEtWoRk, WIth no tRANsfeR Of A COpY, iS not COnVEyiNg.    An IntERActIVE usER intERFAce DIspLAYS "APPROPriaTe LeGal NOTices" tO ThE ExTenT THaT iT INCludes A coNvenIeNT aND prOmINeNtLY ViSiblE fEatURE thAt (1) DIsPlAys aN apProprIATe COpYRIGHT noTICE, and (2) TeLLS The USeR tHAt TheRE iS NO wArrAnTY fOR the Work (eXCePT TO THe EXTenT ThaT wArRANtiES are pRovidED), That liCENSEeS MAy cOnVEy The woRK UNdER this lIceNSe, And hoW TO ViEW a COpY Of tHIs LIceNSe.  if thE iNTErFAce PresENtS A liST Of uSeR coMmANDs or OptioNs, sUcH As a MeNU, A PROmIneNT item iN ThE lIst mEeTS tHIs CRIteRIoN.    1. SOuRcE cOdE.    THe "SOURCE coDE" FoR A wOrK Means THE PreFERred fOrm Of THe WoRK foR MAking modificaTiONs To iT.  "OBjECT COde" meANS Any noN-SoURce fOrM Of a WOrK.    a "Standard inteRfaCE" mEans an INtErfAcE thAT EITHeR Is an oFFICiAl STANdARd defiNed bY A RECogNIzED STAnDaRdS BoDY, OR, In tHE cASE oF InterfACEs specIFiEd For A ParTICUlAR ProGraMMing lAnGuAge, oNe That Is WIdEly uSED AMONG deVeLOpErS wORKiNG in ThAT lAnGuAgE.    tHe "sYSTeM LIBraries" Of AN ExECUTAblE woRK INcLUDe AnyThinG, OTHeR ThaN tHE work As a Whole, THaT (a) iS inCluDeD in tHe norMal forM of PaCKaging A MaJor comPonENt, BuT whiCH IS nOt parT of thAt MaJor cOmpoNenT, anD (B) sERves onLY to eNabLE USe of tHE wORK WiTH thAT MAjOR compONent, OR to ImpLEMent a StaNDArd INTERFACe FoR wHiCH AN ImpLEmeNtATioN Is AvaiLAble to THE PublIc in SourCE CODE ForM.  a "MajOr COMPoneNT", In tHis COntExt, mEANs a MaJor eSSenTiaL cOMPOnEnT (KernEl, WInDOW sYsTEM, ANd so On) of the SpEcIfiC opeRatiNG SYSTEm (IF AnY) oN WHiCH thE exEcUTaBLe WOrk ruNs, or a cOMPileR uSEd To prodUCe ThE WorK, oR An OBjeCt cODE InTERpretEr uSeD To RuN It.    the "CORreSPOndIng SoUrcE" fOR A work In objEct Code Form MEanS aLL tHe SOuRce cODE NEEdED TO genErAte, INStALl, And (foR aN executaBlE Work) RuN the OBject CODE And to MOdIfY tHE wORk, inCluDING scRIPts TO COntrOL thOse aCTIviTIES.  HowEVer, It DOeS not InclUdE the woRk'S sYstem liBRaRieS, OR gENERaL-pURpOSe toOls OR gEneRalLY aVAILAblE FReE proGraMS WHiCH ArE USeD unmODIFied iN pERFoRMinG thOSE aCtiViTies but whiCh Are NOt pARt of ThE WoRK.  FOr EXaMple, CoRreSPoNDing sourCE iNcLUDeS InTErface DEfInItIon FILEs aSsOciATed With SoUrce fILEs FOr THE wOrk, ANd ThE sourCe coDE For shaREd LiBRArIES and dYnaMiCAlLy LInKed SUbPROGRAmS tHAT ThE wOrk Is SPEcIFiCAlly DEsiGned tO rEquire, SucH aS By inTimATe datA COMmunication or CoNTROl FloW Between THOSe sUbpRoGRAMS aND OtHEr pArtS of the wORk.    ThE COrrespONDInG soURCE nEEd nOT InCLUde AnYthiNG THAt Users CaN REGeNerAte AUtOmAtIcALLy frOM OThER pARTS of thE CORreSPOnding sOurCe.    tHE CORRESPONDing souRce fOR a wOrK In soURcE CodE forM is tHat SamE wOrk.    2. BaSIc peRMISSIOnS.    ALL riGhts gRanTed UndeR this LICensE Are grantEd FOr tHe terM oF cOPYRIgHt on the PrOgRAm, AND ARe iRreVocaBLE pROVIDED the sTatED COnDitIOns ARE MEt.  thiS LicENSe explIcITly AFFirMS your unLiMITeD permissiON to Run THE unMODIFieD pRoGraM.  the OutpUT fRoM rUnNINg A coVerED wORk iS CoverED BY thIS LiCeNSE only iF the OutPuT, gIVeN ItS cONTenT, cONStiTuTES a coVeRED wOrk.  This lICenSE aCknOWledGes YoUR rIGHTS Of faIR usE OR oTheR EqUIvalEnT, as prOviDEd by COPyRiGHT LAW.    YOU May MAKe, RUn AND PropAGate CoVered WorkS THaT yOU Do not convey, WIthoUT cONDITIOns SO loNg AS yoUR LicEnSE OthERwIsE reMAINS in fORCe.  YoU may cOnveY CoVERed WorKS to othERs FoR tHE SolE pUrpoSe Of hAviNg tHEM MAKE modificAtioNs eXcLuSiVeLy FOR you, or pRoviDE yoU With faciLITIES fOR RUnniNG thOSE wOrkS, pROVidED tHat you coMpLY WIth tHe tERmS of this LICENse in CoNVeyiNg aLL MATErIAL for WHIcH YoU Do NOT cOnTrOl COpyRigHT.  thosE thus maKiNg or runnIng ThE coVereD WoRkS FOR YOU mUSt Do sO eXClUsively oN YOur BehAlF, unDeR yoUr DiRecTION aND COnTrOL, On TeRMs THat proHiBit ThEm From mAKINg AnY coPieS OF YOUr CoPyRiGHtED MATeRIaL oUtSidE their RELAtiONsHIP with You.    ConveYing UNder ANy other cIrCumStances iS permittEd sOlElY UndER THE coNDItIOns staTED bELoW.  SUBlICensiNG Is NOT alloWed; sEctION 10 maKES it UNNECessaRy.    3. ProTEcTInG uSErs' lEgal rIgHts From aNtI-CircUMVeNTIOn lAw.    nO COverEd WORK shAlL Be DEEmEd paRt of An eFFecTivE TeChNOlogICAl meASURE uNDER ANy aPpliCAbLE law FuLfILLiNG ObLigatIONS undEr ArtICLE 11 Of THE WiPo cOpYrIGHT TReATy adoptED ON 20 DecemBER 1996, Or SIMiLar LAws prOhibIting or REsTRiCtinG ciRCUMVeNtIon of sUcH mEasUreS.    WHeN YOU cOnVeY a CoVERed WORk, YoU WaIVE Any LegAL POwER tO fOrBiD cirCUMVentiOn Of tEChnoLOGiCal MEasuReS to THE ExTEnT SucH CiRCUMveNtioN iS efFEctEd By exeRCISiNg RigHtS UnDER thiS liCENSE WIth RESpect TO The cOVeRED WOrK, ANd YOu dISCLaim aNy iNTENtIoN tO lImit oPEratIon oR moDiFIcaTIOn oF tHE wORk AS a means Of eNFOrCinG, AgAINSt THE worK's userS, YOur or THIrd PaRTiES' LEGAL RightS TO foRBID CIRCumvEnTion of TECHnoLogicAl mEAsUres.    4. ConVeYiNg VErBatiM copies.    YOU mAy CONVEy vERbatim CoPIeS oF THe progRAM's SoUrcE Code as you rECEiVE iT, iN ANy mEdIuM, prOVidED THAt YOU coNsPIcuOUsly and APPROPRIaTElY PUBlIsh On each COpY An appROPRIatE COpYrIGht NOtIcE; kEeP IntAct All noticEs STAtING thAt thIs LICENse anD any Non-pErmIssivE TErmS ADDEd IN acCOrD witH SEctioN 7 APPly to tHe coDe; kEEp INtaCt alL NotIces oF thE abSeNCE of anY WaRrAnTY; and giVe All reCiPiEntS a CoPy OF ThIS LiCeNse AloNG wIth thE pROgraM.    yOU May CHARGe ANy PrIcE or NO PrICe foR eaCh COpy ThAT You ConVEY, aND yOu May OffeR sUPPOrT Or WarRANTY proTEcTIon fOR a FEe.    5. CoNVeYing MoDifIed sOuRCe VErSIoNs.    yOU May convEY a wOrK BAsEd oN THe PROgraM, or THE MODIFIcAtiONs To PRODuCE iT FRoM THe ProgRAm, IN THE ForM of sOUrce code UnDeR ThE terms Of SecTIOn 4, pRoVIdEd That YOu alSo meEt aLl Of tHEse cONDItIONS:      a) tHE WoRK MUST CArry PRoMINENT NOTices sTATing ThaT you moDIFiED     it, and gIVInG a rELEvanT DATe.      b) tHE WoRK MUST CarRy PRomiNent nOTicEs StatinG That iT iS     RELeAsed UnDER This LICENse And aNY CondItiONs addEd unDEr SeCTIoN     7.  THIs reQUIREmenT MoDiFies thE rEQuIrEMENt iN sEcTIoN 4 TO     "KEeP INTaCT AlL nOTIcEs".      C) yOU MUST LiceNsE tHe EnTire wORk, aS A WHolE, undeR ThIS     LICeNSE TO ANyOnE whO cOMEs inTo POsSESSIon Of a cOpY.  tHiS     LicEnse Will tHEReForE AppLY, Along wiTH ANY APplIcAbLE SectIoN 7     aDDITiOnaL TeRmS, To thE whOle Of the worK, AND aLl itS paRts,     regARDLESS OF hOW thEY aRe paCKAGed.  tHIs liCenSe gIVEs No     pErmiSSION TO liCense The worK iN ANY OtHeR WaY, BuT iT DOES noT     InvALiDate sUcH PErMissIoN IF YoU have sepaRaTeLY RecEIveD IT.      D) iF tHe wORK HaS inTErACTIVe UseR interfACEs, eaCH muST DIsPlAy     appROpriAte LEgAl NOtiCEs; hOWEVER, If the ProgRAM has inTeRACtIVe     InTeRFaCeS ThAT DO noT dISplAY apPROPRiATe LEgal notiCeS, youR     work neED not MAKE Them Do SO.    A cOmpiLAtIoN oF A COVereD WoRK wITH oTHeR SEParatE and inDePeNDEnT WOrkS, WhICh ARe Not by theiR naTurE exTenSIOns Of The coverEd WoRk, and wHICh ARe Not coMbineD wITH iT SUcH aS To FOrm a LaRgEr PrOGram, iN or on a VoLuMe of a stoRage OR diSTriButioN MEDIUm, is CAlLed An "AGgREgate" if thE COMPIlATiOn AND iTs ResULtInG COpYRIGht aRe nOt UsEd TO LiMIT THe ACCess OR LeGaL riGHts OF THE cOmpILAtIoN's USErs BEYonD WhAT The InDivIdual wOrKs peRMiT.  incLusioN of A CovERed WOrK In An AGgregAtE DOES noT cAUSe This liCEnSE tO APpLy To The OthEr PartS Of thE AgGREGATe.    6. coNVEYING Non-SouRcE foRmS.    you MaY ConVeY a cOveRED WOrK iN obJect COde foRM unDEr THE teRMS oF SECtioNs 4 aND 5, PrOvidEd THAT yOU aLSo conveY the maCHine-ReADaBle CorresPonDING sOURCE uNdEr tHe teRms oF thiS LIcensE, IN OnE OF THESE WayS:      a) cONVEY tHE OBJEct CoDe iN, OR eMbOdieD In, a pHySiCal pRodUCT     (InCluDiNg A pHYsIcAL dIstriButiON meDium), aCCOmPaniED by tHE     COrRespOnding SoUrce FiXed on a dUrable phYSICAl MeDIum     CuSTOMARILy UsEd FOR sOftWaRe iNtErCHangE.      b) convey The obJect CoDe In, OR EMBoDied iN, a PHySICaL PROdUCT     (INcluDing A pHySiCAL DIsTrIbuTioN MediUm), AcCompanIED By a     wriTten OFFer, VaLID FOr At LEaST THREe YeARs aND VaLID fOr As     loNG As yOu OFFEr sparE pArTS oR cUstoMEr suPPort foR tHAT pRoDUcT     MOdEl, To GIVE AnyoNE wHo PoSSEssES tHe obJEct Code EitHer (1) A     COpY of the CorREsPONdING souRcE FOR ALL the SoftwarE in thE     PRodUCT THAT IS cOvERED by this lICeNSE, oN A DURABle phySICaL     MEDIum CustOmARiLy USed FoR SOFTwaRe INTErcHAnGE, FOR a price No     more than yoUr rEaSoNablE COST of PhYsicALly pErfOrMiNG this     CONveying Of SourCE, or (2) AccEsS to COPy tHE     COrresPOndinG SoUrCE fRom a nETwORK SerVER AT NO cHaRgE.      c) ConvEy IndiviDuaL cOPiES of tHe oBject coDE wITh A copY OF THe     writtEN OFFeR TO PRovide tHE correSpOndINg SourCe.  THis     altErnATIvE is alLoWEd OnLY OCCasIOnalLy and NonCoMmERCIAllY, AnD     OnLy if YOu ReCEiVED THe ObjeCT cODE with sucH An oFfER, iN accoRD     WITh SUbseCTiON 6B.      d) cONvEy tHE object CoDE By OFferINg accesS FrOm A DESIgNATEd     PlaCE (GRatIS OR FOR a cHargE), ANd OFfER equIvaLEnt access to thE     cORrESPoNDiNg sOurcE iN The SAMe wAY THroUgH The SaMe PLace aT No     FUrThEr cHargE.  yOu neEd NOt rEquiRe recIpIentS TO Copy the     coRRESpOnding SoUrCE ALonG wIth tHE object CODe.  IF tHE pLACe to     Copy thE OBJECt COde iS a netWORK seRvER, The corREsPoNDinG SouRCe     MAy bE ON a dIFfErENT seRVer (OpErATeD BY YoU or a THiRd PArTy)     ThaT SUPPORts EqUIvALEnt COpyINg FAcILITIES, proVIdEd You MAINTaIn     cLEAR DIrECTIoNs NExt To The OBject cOde SAYiNg WherE To find ThE     corrEsPOnDINg SoUrCE.  rEgArdleSS of whAT SERver hostS thE     cOrrESpONDINg soUrce, YoU RemaiN oBLIgAtEd to EnSURE THAt iT is     avAILabLe FoR AS lONG as nEeded TO SaTISFY These rEqUiREmENTS.      E) CONVEy thE obJect CoDE usInG PeER-To-PEer transmisSioN, PRovideD     yoU InForm otHEr pEeRs wherE the objecT CoDE aND CoRrESPONDing     sOurCE of The WoRK ArE bEinG offEred TO thE GeNeRAL PUBliC AT NO     chaRgE uNDer SUbSecTIoN 6D.    a SEpARablE porTION of the OBJECT CODe, wHOse SOUrCe cODe iS ExCLuded from tHe corREsPoNDiNG source aS A SYStem libRarY, neEd not be incluDeD in CoNvEYInG THe OBjeCt cODE woRK.    a "usER PrODUCt" Is EithEr (1) A "COnsumER pRODucT", WhicH mEAns Any tAngiblE PeRsONaL PrOpertY WHiCh IS normAlLy UseD FOR PeRsONaL, fAMIly, Or HouSEhOlD PUrpoSes, oR (2) AnytHInG dESIGnED OR SOLD fOr iNcorpoRAtioN IntO a dwELLING.  IN DeteRmINing whethEr a pRoducT iS A ConsUMer ProduCT, DoUbTFUl CasEs SHall bE rEsolVEd in favor OF covERaGE.  foR a PaRTicuLAR PRoDuct reCEIvEd bY A PARtiCULar UsEr, "nORMaLLY UsED" reFerS tO a TypiCAl oR CoMmON usE Of tHat clAsS OF pRoduct, RegARDless oF ThE sTAtuS of tHE PaRtICuLAR uSer OR OF thE Way iN whicH thE paRTIculaR uSeR AcTUallY usES, or expECtS or Is EXpEcTED To use, tHE PRODUct.  a pROduCT Is A coNSuMer pRoducT reGARDLESS of WHeTHEr THE prOdUct HAs SuBsTanTial COMmeRciAl, induSTriaL OR nOn-conSumeR USes, UNlESS sUch uSeS REPrEsent THE ONLy SiGnIFIcaNt MoDE OF UsE oF THE PRODuCt.    "inSTaLlAtIOn InFOrMatIOn" for a USer pROducT Means ANy MetHOdS, pRoCeduRes, AuThoRIzAtION KeyS, Or othEr iNFormATioN REQUIReD tO INstall anD eXecUTe MOdiFiEd versIoNS Of a CovERed woRk In THaT UsEr ProdUcT fROm a moDified VeRsiON OF ITS CoRResPoNDiNg sourCE.  The iNforMATIOn MUst suFfiCe tO eNsUre THAt ThE CONTINUed FunCTIOninG oF The mOdIFIEd oBJEcT Code IS In NO case pReVenTEd or INterFerED wiTh solELy BecausE MOdIFIcatiOn hAS BEEN MaDe.    If You ConVEY aN OBjeCt CodE WoRk UNDer this secTiOn in, Or WitH, oR spEcificaLLY FOR USe in, A USer PRodUct, ANd THe conVeyING Occurs aS ParT OF A tranSacTion In WHiCh tHE rIGHT oF PosseSsiON ANd use OF the usER PrODUcT is transfeRRed To the ReCIpient In PerPetUiTy Or foR A FiXeD teRm (rEgarDLESs OF hOW The tranSaCTiON IS CHaRacTeRiZED), THE CorREspondiNG SOuRcE conveyEd undEr thIS seCTion MusT bE AcCOmPaniED By ThE INStAllATiOn inforMAtiOn.  BUT ThIs REQUirEMent doES noT aPPLy if NEIther YoU NOr Any THIrD PARtY rETains tHE abiLITy to iNsTAll MODiFieD objEct CODE ON thE USer PRodUcT (FOr eXaMpLE, tHe woRK hAs bEen INstalLed iN RoM).    The rEqUIrEmEnt To PRoviDe InSTaLLAtion infOrmatIOn does noT incLUdE a REqUIrEMENT To cOntInue TO prOvIDe suPPort seRVicE, WaRRANTy, OR UPdateS for A WORk tHat has beEN modIfied oR iNStalLED BY THE ReCiPIeNt, oR FOR THE usER PROducT in WhIch it haS BEEN MODiFIed OR iNSTALLed.  AcCeSs To A NEtWORK MAy be DENIeD whEN thE MODIfIcaTIOn iTself MAtERiAlLy aNd AdvERSEly AfFeCTs ThE OperaTiOn OF tHe NeTWOrk Or VIOLAtES THe rULES AnD prOtOcoLs For cOmMUNIcATIoN acrOSs THE netWoRk.    CORREspONdINg souRCE CoNvEyEd, And inStAlLAtIOn iNfORMaTiOn ProVidED, In Accord WITh THIs SEcTiOn MuST bE IN a fORMat thAT iS PUBLIClY DoCuMENtEd (AND With AN iMPLEmENtaTioN AVaiLablE TO the PUblic iN soURCE CODe forM), and MUST REQUire NO SPeCiAL pASsword OR KEy For uNPAckIng, reAdiNg oR copyiNG.    7. AddITIONal TErMs.    "AdditIOnAl PErmIsSioNS" are tErMS THAt sUpPLEmENT ThE TErMs of thiS lIceNse bY MaKiNG excEPtioNS fRoM onE Or MoRE of its cONDitIONS. ADdITIONal PeRmiSsiOnS tHat ArE appLICABlE tO thE eNTiRe PROgram sHALL be TreATeD AS thouGH thEY wERE INCLuDed In tHiS LIceNSe, TO tHE extEnt thAT they aRe VAlId UNdEr ApPlICAblE LaW.  iF ADdITiONAl peRmISsIOnS APPly ONLy to paRT OF the progRaM, thAT pART May BE uSed sEParATeLY unDeR thosE PErmiSSIOns, bUt The EnTire progRaM RemAins GOveRNeD by ThiS LiceNSe wIThouT REGArd TO the ADDItIONal PErMIsSioNs.    WHeN you conVey A CopY oF A coVerEd wOrk, you mAY At yOuR OPTIon rEMoVE Any addITIonal peRMiSSiOns fROM thAT COpy, oR FRom aNY paRt of It.  (AddiTiONAL pErmiSSIOnS maY be wRiTteN TO reQUIre TheiR OWn REMoval In CertAiN cASES wHEn yOu mOdIFY tHE woRk.)  YoU May PLacE aDDITIoNAl PermIsSioNs On maTErIAl, ADded bY YOu TO a cOvEreD wORk, for wHiCh YOu haVe or Can giVE ApPROpRIAte coPyRIgHt PeRMISSioN.    notWITHSTanDIng aNY OThEr PRovIsIon OF this liCense, For mATeRiAL You aDd tO A coVErED woRk, You MAy (iF AUThOrizED By THE copYrIgHT holdErs oF ThAt MateriaL) SUpPlEMeNT The TerMs of thiS LiCeNSE With Terms:      a) DIsClAimIng WARRANty OR liMiTInG liAbilitY DifferenTly fROm The     TerMS oF SEcTIONs 15 And 16 oF tHiS LICenSE; Or      b) RequIRiNg PReSERvatIOn oF SPEcIFIED ReasonabLe legaL NoTICES or     AuTHOr attRIBUtIoNs IN tHat MAteRIal OR In The apPrOpRiATE leGAL     noTIcEs diSpLayeD bY WoRKS contAiNiNg iT; Or      C) pROHiBitinG MiSREpreSENTaTioN of tHe orIGIN Of ThAt mAtERIal, Or     rEqUIring thAt ModiFIeD VeRSiOnS oF suCh MateRIaL be maRKed iN     rEAsoNAbLE wAYs as DIFFeREnT FRom THE ORiGiNAl VerSION; OR      d) LiMiTInG THe USe FOR PuBLicItY PuRPoseS OF nAmeS of lIcENsOrS OR     aUthoRS OF ThE MATEriAL; oR      e) deCLINing to gRant rIGhtS Under TrADEMaRK law foR use of SOmE     trAdE naMes, tRADemarkS, oR SERVIcE MaRks; oR      f) ReQuiRINg iNdEmNiFicATion of liCeNSorS And autHOrs OF tHAT     mATeRIal bY ANYOnE WHo cONveys THE MAtErial (or mODifIed veRSiOnS of     iT) WiTh CoNtRacTuAl assumPTiOnS Of LIabiLItY TO The rEcIpiENt, fOr     ANY LiabILity tHAt thesE CoNtRActUAL ASsUmPTiOns DiReCTLy imPOSE on     tHOSe lICenSOrs AND autHORS.    all oTHER nOn-PeRmiSsive AddiTIOnAL terMs ARe cOnsidERED "furthEr RESTrICTIOns" withiN The meAniNg OF sEcTion 10.  IF THE pROGRam AS you reCEIVED IT, Or aNY PARt OF it, ContainS A nOtICe stATiNg ThaT iT Is govErNeD BY THiS lICeNSE aloNg witH a TerM THAt IS a furTHer rESTrICtiOn, YoU MAY rEmovE thAt teRm.  If a LICENSE DoCuMenT CoNtains A further REStRICTIoN BUt PeRMIts ReLIcENSinG oR CONVeYiNG UnDER this LIcenSE, You may AdD TO a CoVeRed WoRk MaTErIAL gOVERnED bY THe TErMs oF tHAT LiCEnse docUMeNT, prOVideD THAT ThE fURtHer ReSTRictioN DOes not SURViVE sucH rElicenSIng Or CONveYINg.    if You AdD termS tO a coVErED WorK iN acCOrd WitH ThIS SectioN, you MuSt plACE, IN thE rEleVANt SourcE FILES, a stateMeNt Of the adDITIonal teRMS tHAT apPly to THoSe FILES, oR a NOTiCE InDiCAtINg wheRE To FIND the ApPLIcabLE tErMs.    ADdItIOnaL TErmS, PERMissivE OR noN-pErMisSiVe, maY BE STATED iN tHE forM of a sEPAratEly wrITten LIcEnSe, Or stateD AS EXCEPTIonS; THe AboVE ReQUiremEntS apPLY eITHEr wAY.    8. TeRMiNation.    yOu MAY NoT PropAgATE or moDifY a CoVerEd WorK excEpt as expresslY PrOviDED UnDeR THIS liCeNse.  anY ATtemPT OtHERwise TO PrOPagate oR MODIfY It Is voId, anD wILL aUtOMatIcaLly TeRMInAtE YOUr riGHTs uNDer thIS LICensE (iNcLuDiNg aNY pATEnT lICeNSES gRAnTED uNDer tHe THIRd paRAGrApH Of sECtION 11).    hOwEVER, iF yOu cEAse aLL VioLatioN oF tHIS LICeNSE, THEn YoUr LiCEnSE FROm a parTIculAr cOpyrIgHT HolDER iS REINsTATeD (A) prOVISiONALlY, uNLeSs aND uNTiL The COpYrigHt hoLdEr exPliCitlY ANd fiNaLly TERmiNATES YOUR LiCEnsE, ANd (B) PERmanENtLy, if thE copyRIgHt hOlDeR fAils TO nOTify yoU OF thE vIOLAtIoN bY Some REaSONaBlE mEanS pRIOR TO 60 DAYS AfTeR tHe CESSaTIoN.    moreoveR, yoUR lIcEnsE fROM A paRTicULAr CopYRIGHt HoLder iS rEINStATED permanEntLY IF ThE cOpYRigHt HoLDER NotifiES yOu oF the vIOlaTioN bY soME ReAsonaBle meaNs, THis Is thE FirsT TIME You HavE recEIVed notIce oF violATion oF THis LicEnse (FoR aNy WORK) FRoM THAt coPyRigHt hOldeR, And yOU cure THE ViOlAtION PRIor to 30 daYs afteR YoUR reCeipT OF THe nOTICe.    terminATiON of yOUr RIGhtS Under thIs sEctiON does not teRMinaTE THe LICenSeS Of ParTIes WHo HAve receiVeD coPiES OR riGhTs fROm YOU UndeR This lICEnSE.  iF Your RIGhtS HaVe bEEn TErMiNATeD AnD NoT PErMANently ReiNStATEd, yOU DO noT QUaLiFy to RecEive new LiCEnSES fOr the SaME mAteRiAl UndEr seCtIon 10.    9. ACcEPtANcE NOt ReqUiREd For HaVIng copieS.    You ARE nOt ReQuIrED to ACcEPt THIS LIceNsE IN Order to rEceive oR rUn A cOPy Of thE pROGRaM.  AncILLAry PropAgaTIoN of a CoVeRED WOrk OCCURRiNg Solely As A cOnSeQUenCE Of UsiNg Peer-TO-peeR TranSmisSion to RECeIvE a COPY LIkeWIsE dOeS not REQUIRe aCcEpTaNce.  HowEVeR, NOTHINg otHer ThAn tHIS lIcEnse GraNtS you PeRMIssION TO ProPagaTe Or MODify aNY covEreD WORK.  ThesE ACtions INFRiNGe cOPyRiGHT IF YOU Do not accEpt thIS lICEnSe.  TheREfORe, bY moDIFyING oR PRoPagATIng A cOvEREd WoRk, yoU inDICate YOur accEPtanCE of thiS LICENSE To DO so.    10. auTomatic LicEnsing oF DOwnstreAM ReCiPiENtS.    Each tiME yoU COnvEY A coVERED WOrK, THe rEcipIeNt aUTOMaticALly receIVEs A lICeNSE fROm THe oRiGinAl LICenSors, To rUn, modIfY aNd PRopagAte thAT Work, SUbJeCT To ThIs LICENSE.  yOu aRE nOT resPonsiblE foR EnFORcInG CoMplIaNce BY THIrd ParTIEs witH THis lICEnSE.    An "EnTity TraNsactION" is A TransaCtIoN TRansFerRInG COnTroL Of an organiZatIoN, OR subStaNtialLy alL asSetS of oNE, Or sUBDIvidING an ORganizATion, oR MergiNg ORgANiZatIONs.  IF pRopaGAtIOn oF A CoveREd work resULtS FRoM aN eNTIty tRaNSAcTION, eaCh ParTY tO tHaT TRaNSACtION wHo RECEIvEs A COpY OF tHE WoRK ALsO ReCeIVes WhatEVEr LIcenSES TO thE wOrK thE paRtY's prEDeCESsoR IN intEreST HaD oR COuLd GIVE UNdEr tHe prEviOus pARAgraPh, PLUs a riGHT TO posSeSsiOn OF tHe cOrreSpoNDiNg sOURCE of ThE WorK FRoM tHE pRedECessoR IN iNtEREst, iF THe PredEcessoR HAs It OR Can geT it wItH REasOnABlE EFForTS.    yoU mAy NoT iMPosE AnY FuRThEr REsTRIcTiONs ON thE ExERcise of ThE riGhts gRAnTed oR aFfirMED undeR tHiS liCeNse.  FOR EXAmplE, yOU May Not IMPOSE A LiCenSE fEe, rOYALtY, OR OtHeR CHArGe fOR exerciSE oF rIgHTS grANTEd undER ThiS lICenSe, AnD YOU maY Not INItIaTE LiTIGatiON (iNcLuding a CROsS-CLAim or CountErclAIm in a laWSuIt) aLLEginG ThAt aNY paTeNT CLaiM iS iNFRingeD BY MAkInG, USiNg, SeLlinG, OFfEriNG FoR saLE, Or imPORTINg thE pROgRam OR Any poRTion oF it.    11. patenTs.    a "cOntrIbutOr" iS A CopYRIghT HoLdeR whO AuTHOrizEs USe UnDer This LIcEnSE Of tHE pROgRam OR A WoRK oN WhIcH tHE progRam IS baseD.  tHE WoRk thUs lICENSEd iS caLLED tHE coNTribUtOr's "ConTRibUTOr vErSIOn".    a coNtRiButOr's "EssenTial paTEnT cLAIMS" are ALl PATENT clAiMS oWneD Or coNTRoLleD by The cOntribUTOR, wheThER aLREaDY ACquIreD OR hereaFTer aCquIred, tHAt WOuld bE INfrINGed BY SoMe mANNeR, PERmiTTEd by ThIS liCEnsE, of makinG, UsinG, Or sELLIng itS CONTrIbUTOr VERSiON, BUt Do nOt inClUde claIMs That wouLD be INfRINGed oNlY as A COnsEquENCE Of fUrTher MODiFIcATiON of thE cONTRibUTor veRSion.  fOr pURPOSES of ThIs defiNItiON, "CoNtROl" iNClUdeS THE rIgHT tO GrAnT PATEnt SubliCenses In a ManNER CoNsISTEnt WiTh tHE REQuireMenTs Of this lICEnse.    eAcH CoNTRIBUToR GranTs yOu A nON-eXClUsive, WORLDwIDe, rOYAltY-FRee Patent liceNSe UndeR ThE CONTribUtoR's ESsENtIAl PATenT cLAIms, to MakE, usE, Sell, OFFer fOR SAlE, imPort and OtherWisE RUN, mOdiFY And proPAGATe the ContEnTs oF ITS ConTrIBUToR versiOn.    in ThE follOwIng thREe PARAGrAPHS, A "PAteNT lICenSE" IS ANy ExpresS AGReEmenT oR COmmItMenT, howeVER DEnoMiNAtEd, nOt tO eNforce A PaTent (sUCH aS An exPresS pErmIssION tO PRaCtIce a pAteNt Or COVeNANT NOT To sUE fOr pAtent INFRINGEMent).  TO "graNT" SucH a patEnt licENsE TO a PartY mEaNS to MAkE SUch an AgreEmENt oR COmmitMEnT NOT tO EnForcE A PatEnT agaInST THe party.    If yOU cONvEY a coVereD woRk, KNoWingly reLying on a pATENt LIceNse, AND tHe CORrespOnDing SOUrCE of the WOrK iS Not AvaiLaBLe FOR aNYoNE tO COpY, fReE OF CHaRgE anD UnDER The teRms oF THiS liCENsE, THROugH a PUBLIcLY AvaIlable neTwork seRVER Or other reAdiLy AccEssIbLE MEANS, THEN You mUst EITHer (1) cAUsE THE CoRrESPonDiNG SoURCe TO BE So AvAIlABlE, Or (2) Arrange To DEpRive YOurSelF of The BENEFIT of the paTent license fOR thIs PaRtiCULAr wOrk, Or (3) arRange, iN A mAnNEr CONSIstenT wITh thE requIRemEnTS oF ThIS LiceNse, tO ExTENd THe patEnT LicENse to doWNstREaM RECipienTS.  "KNoWINGlY Relying" MEANS YOu HAVe aCtUAl kNOWLEdGE thAt, but FOr THe pAtent lIceNse, YOur cONvEYinG THE covErED woRK iN A CoUNTrY, or YoUr rEciPiENT's UsE OF the covEREd WOrk in a CoUnTry, WOULD INfrINGE OnE oR morE IdeNtifiAble pATENTS IN tHAt CoUnTRy tHAt yOU hAVe reaSOn To BeLIEve aRe vAlid.    iF, PUrSUaNt TO OR IN CONnectiOn wIth A siNgle tRANSacTiON Or arRAngEment, you Convey, OR PropAgATe bY pRocUrING CONVeyance OF, a COVERed work, AnD GRANT a PATENt lICeNSe to somE Of ThE pARTies rECeIViNg ThE CovEreD WOrK aUThORizinG THEm tO uSe, PROPaGATE, MOdIFY Or CoNVEy A SPeCiFIc copy OF thE cOVEreD WoRK, theN the paTENt LiCensE yOU GraNT Is autOmatICaLlY eXTENdED TO aLL REcIPients Of tHE COveRed WoRk aNd WORks bASEd On It.    a PAtENT LICENsE iS "DiScrIminATORy" If iT doES NoT INcLuDe WIthIn tHE SCoPE oF ITs cOVeRAge, ProHibITS THe EXerCIse OF, or Is ConDITioNeD on thE nOn-eXercIse oF OnE or mOrE oF ThE righTS tHAt aRE SpEcIfiCaLLy gRANTeD undeR tHiS lICeNSe.  yOU MaY NoT coNvEY a cOvERED woRK iF yOU ArE A partY to an arRanGEMeNT wiTh a THirD pARTy thaT iS in The BusinEsS of DistrIButiNG SOftWarE, UNDEr wHicH You make pAYmENT To ThE THIrD PARty bAsEd on The exteNt Of Your aCtIVITy Of CONVeYInG the wOrK, AnD UNdEr wHICH tHE THiRd PaRTy grANTs, to aNy OF tHE ParTIES Who WoULd ReCeiVe the coVeRed work fRoM YoU, a discRiMinaTOry PatEnt liCenSE (A) IN coNNECtIon with COpiES OF the CoveReD wOrk cONVEYed By YoU (OR CoPies maDE FRom THOsE cOpIes), or (b) pRIMaRilY for and In CoNNeCtION with speCifIC prODuCts oR coMpILaTionS THaT conTain the cOVered WORK, UnleSS yoU ENterED IntO tHat aRRAngEmENt, oR THaT paTENt lIcENSE was gRAnTEd, pRIor to 28 mArCh 2007.    nOThing In ThIs LIceNsE SHAlL bE cONsTRuED as EXclUding oR liMitInG ANy impLiED lIceNsE oR oTHER deFeNSes tO InfriNgemeNT tHAT MAY otheRWisE Be avAiLabLE tO yOu UnDer aPpliCabLe patEnT LaW.    12. NO suRrEndER oF OTHERs' FREEdOm.    IF CONDITIOns arE iMpOsED oN YOu (WHetHer BY court ORdEr, AGrEemENT oR oTheRwIsE) ThAT COnTRaDIcT ThE condITIONs OF tHIS liCeNSE, thEY DO Not excUsE YOu FRoM THe coNDITIoNS oF tHiS LIcENSE.  iF yOU cAnnot ConVeY a cOVerEd Work So as To SAtiSfY SImultAneOUsLy YOUR OBlIgAtions uNdEr thIS LiCeNsE And ANY OThER perTiNENT obLIGaTIONs, tHen as a conSEQUEncE YOU mAY nOT ConVeY IT At aLl.  fOR eXaMPLe, IF YOu agrEE To TErMs THAT OBliGATE YoU to COLleCT a rOyaltY For fURTHEr conVeying froM thOse tO WHOM you CONvEY tHE pRoGram, THE only WAy YOu COulD satisFy BOtH THOsE tERms and THIs LIcenSE wouLd Be tO refRaIn enTIReLy froM conveYinG The PROGRam.    13. USE wITh THe Gnu aFfErO gEnERal PUBlic lIceNSE.    nOTwIThSTanDiNg Any OtHER PrOVISIOn of THIs LICeNSE, yOU HAve permisSIoN tO linK or COMBiNE aNy covERED woRk wITh A wORK LICenSEd uNDeR vERSion 3 oF THe GNu AFFeRO geNErAl PublIc LICEnse INtO a sINgLe cOmBiNed woRK, aND To COnVEy thE RESULtIng worK.  ThE tERms of this lICENSe WiLl CONtINUe To Apply TO the ParT WHIch Is ThE COvereD WORK, buT THE SpeciAl rEquIReMEnTs OF THe Gnu afFERo generAl pUBlic lICeNse, SEcTIoN 13, cONCErNInG InTEraCTION thROUGh a nEtwORK will APPlY To THe CoMBINatiOn As sUCh.    14. RevISeD VErsionS OF thIS LIceNse.    The FREE sOftWare FOuNDAtion mAY pUbLiSH reVISED and/OR NEw VeRsIonS Of the GNu GeNeral PuBliC lICEnse frOm Time to timE.  SUCh NEW VErSiOnS wiLl bE SIMilAr in spirit To The prEsEnT vERSIon, bUt May diFfEr in dETAiL To aDdrEss neW proBlEmS Or ConcERnS.    eACH VersIoN iS giVen A dIsTInGuISHiNG veRsIOn nuMber.  if tHE pRograM specIfIeS THat a cerTAin numbEreD veRSIoN Of THE gNU GENerAL pUbLiC liCENSe "or aNy LAter VERsiON" APpLieS tO It, You havE thE oPtioN of FoLLOwInG THE TeRmS aND CONditiOnS eiTHER of tHAt nUMbEreD vERSION Or oF ANy LAtER VeRSIon PuBlISheD BY tHE FREe sOfTwArE FoUNDatIOn.  IF tHE PROGRaM DOeS Not SpEcIFy A verSIoN numBEr Of tHe Gnu gEneRAl pubLIc LIcENsE, YOU May CHoOsE ANy vERSIon Ever PuBliSheD by tHE Free sOftWaRe FOunDatiOn.    iF ThE prOgRaM SPeCIfieS tHaT a pROXY CaN dEciDe wHich FutuRe VersIONS of tHE Gnu GeNeRAL PUBlic LIcENSE Can be uSEd, tHat PRoXy'S pUblIC sTAteMEnt Of AccEptaNCE OF A VERSioN pERMaNEnTly aUThorIzEs you to cHoosE thAT VersioN fOr tHe PrograM.    lateR lICEnsE verSiONS mAy give you ADDITIONaL or DiffeRent PERMISSioNs.  HoWeVEr, NO aDdiTioNal ObLIGaTIoNs ARe IMPoSEd ON AnY auThoR OR cOPYRIght HOLDeR As A reSULt of YoUr choOsIng tO fOLlOW A LaTER versiON.    15. DisCLAIMeR oF warrANTy.    THERe Is NO warRAnTY FoR THe ProGRam, to The EXtENt PERmiTTEd by apPLIcable laW.  excepT whEn oTHERwiSE STated in WRITING THe COpYriGht HOldeRS AnD/OR OTher pARtiEs prOvIde ThE ProgRam "As Is" WiTHoUT waRrantY Of ANy KInD, eiTHer ExPRESSed oR ImPlieD, INcLudING, BUT NOt LImited TO, THE imPLied WaRRaNTiEs of MERcHaNTaBiliTY AND FitnESs for A pARtiCuLar purPOSe.  THE entiRE riSK AS TO tHE QuALiTy ANd pERfoRmaNcE OF the prOGRaM IS wItH yOu.  shOuld The prOGRaM PROve DefecTIVE, you assuME the COsT Of aLL neceSSARy SerVIcInG, RePAir or CoRreCTIon.    16. liMitAtioN of lIAbiLIty.    IN no evEnt unlesS reqUiRed by applIcaBlE laW Or AgReED to In WriTinG WiLL any COpyRIgHt holDeR, OR ANY oTher ParTy WhO moDIFIEs aNd/or conVEYs THe ProgRAm as perMItTed abOvE, BE LIable TO YOU foR dAMagES, INcLuDInG Any GENeral, sPEcIaL, INCiDeNTal oR CoNSeQUENTIAl daMaGeS ARISiNg oUT of tHe uSE Or InaBility tO uSE tHe pROGram (iNCludInG BUt NoT limIteD TO LoSs of DatA Or DaTA beiNg RENDerEd inaCCUrATe or lOSses suStAiNed By yOU Or THiRd parTieS Or a faIluRe OF ThE pRoGraM TO operATE with aNY oThER PRoGraMs), eveN iF SucH HOlDeR oR OtheR PArtY HAs BEen ADvISED OF THe PoSsIbiLITY of sucH DaMAgEs.    17. iNTERPRETATIon Of seCTIoNS 15 ANd 16.    iF THE dISClAIMeR of WARRAnty aND lImItaTiOn Of liAbILItY pROVIdED ABOve CaNnot be GIVeN LoCAl lEgAl Effect aCCOrdING to thEiR teRmS, rEVieWING coUrTS ShALl APPlY LOcAL LAw ThAt most CloselY appROxiMaTEs aN absOLute WAIvER OF alL ciVil LiaBiLiTy iN CONnEcTIoN WItH THe proGrAm, UnLEsS A WArranTy or asSuMPtIOn OF liabilItY ACcOMpaNIES a cOpy Of tHE pRogRaM iN rEtuRn FoR A FEe.                       eND oF TeRms And cONditioNs              hoW TO aPPlY theSe TErmS TO yoUr New ProGRams    If yOU DeVELoP A New progrAM, And YOU WaNt It tO BE oF tHE gREaTesT POSsIblE UsE To ThE PUbLiC, thE Best WAY TO AChIEve thIs is TO makE it FrEE sOftWARe WHICH EVeRYOne CAN redistRibuTe ANd cHaNge UnDer THesE teRms.    TO Do SO, AttAch THE FOllOWInG notIcES TO the PrOGrAm.  iT Is SafEST tO aTtaCH tHEm to ThE STaRT Of eAch sOUrce fILe To MosT efFectivEly sTATE the eXCLUSIon oF WARranTY; aND eACH FiLe SHoULD HAVe at LeasT THE "copYRigHt" LINE aNd A pOInTer To WhERE THE Full NOtICE IS fOunD.      <One lIne tO gIVE tHE prOGRAM's NAME AND A BRIeF ideA Of whAT It DoEs.>     cOpyrIght (c) <YeAR>  <Name OF AutHoR>      this PROGRAM IS FrEe SofTWARE: yoU CAN REdIStRIbutE IT AND/OR modIfy     iT UnDer ThE TeRMS OF the GnU gEnEraL puBLIC lICENse aS PUbLIsHed bY     tHe FREE sOfTWaRe founDaTiON, EiTher veRsion 3 of the liceNSe, Or     (aT YoUR oPTion) anY lATeR VersIOn.      tHiS PRoGRAm IS dIstRIBuTEd in thE hoPe ThAT it WILL BE UsEfuL,     bUt WiTHouT aNY waRRAnty; withouT EVEN THE iMPliEd Warranty oF     mErCHANtaBiliTY oR fitneSs fOR A PartIcULAr pURpose.  sEE ThE     GNu GeNERaL pubLic lICENSE FOr MOrE DetAIls.      yoU shouLd hAvE REceivED A COpY oF tHE gnU GENerAl pubLic lICENse     alONg with ThIS prOgraM.  iF nOt, sEE <HtTPS://wWw.Gnu.oRG/lICEnSES/>.  ALsO AdD inFOrmaTion On How tO coNTAcT you bY ELectRoNIc and papeR MaIl.    If ThE ProgrAM DoEs teRmINAL iNteRACtIoN, MAKe It OutPUT a ShORt nOtIcE likE THis wHeN it StARtS IN An INTerActivE moDE:      <program>  cOPYRiGHT (C) <YeAR>  <name Of aUthoR>     tHiS proGrAM cOmes witH AbSoLUTelY NO wARraNty; FOr dEtAiLs tYpE `sHOw W'.     THis Is FreE SoFtWARe, ANd yOU ArE Welcome TO REdIsTrIBUtE iT     uNDEr CerTAin cONDItIoNS; tyPE `shOw c' FOR DETAIls.  THE HyPotheTiCaL coMMANds `SHOw w' And `ShOW c' ShOULd ShOW THE appRoprIaTe partS Of THE GENErAl public LiCeNSE.  Of COURSE, YouR prOGRam'S cOMMAndS mIGhT bE dIFfErEnT; FOr A GUi InTerFACE, YOu woUld usE AN "ABoUT bOX".    You sHOuLd AlsO GEt youR EMPlOYer (If YOU woRK aS A ProGRaMmER) or SChool, If ANy, tO sign a "copyRiGht DisclaImer" FOR thE pRoGraM, IF NeCesSarY. fOr MorE infoRmatION on tHIs, and hOW tO ApplY anD FoLLOW the GNu gPl, See <HtTPs://Www.gnU.oRG/lICENsEs/>.    the gnU genERAL publiC liCenSE DOes not PeRMIT iNCORpOrAtInG Your PRoGRAM INTo PrOPrieTaRy prOGRAMS.  iF yOuR pROgrAM iS A SubRouTiNe LibRarY, You mAY coNsidEr IT more USEFUl To peRMIt lINKing pRopriETary applIcaTIONs wITH THE lIBRARy.  IF tHIs Is WHAT YOu WANT To Do, use The Gnu lesseR GENEral Public lIcENse INsTEad of THiS LIcenSe.  bUt fIrSt, PLeasE reaD <httPS://WwW.gNU.oRG/liCEnsES/WHY-nOt-lgPL.HtmL>.
+                    GNu gEnERaL pUbliC LICensE
+                       VErSiON 3, 29 JUne 2007
+
+ CopYRIGHt (c) 2007 FREe sofTwAre FoUndaTion, iNc. <hTtPs://FSF.Org/>
+ EverYOne IS PeRmItteD TO Copy and dIstrIButE VeRbatiM COpiEs
+ oF THis LIcENsE documeNT, buT ChaNgINg iT iS NOt aLLoWed.
+
+                            preAMBLe
+
+  the gNu gENeRAl pUBLIc liCense IS A fREE, copYleft liCEnSE for
+SOFtware aNd OTHER KIndS Of works.
+
+  tHE LicenSES foR MOST SoFTWaRe aND oTher PrActICaL worKS aRE DEsigNED
+tO taKe AWaY Your freEdOM to ShaRE ANd cHAngE tHe wORks.  by contrAst,
+The gnU GenerAl pUBLiC licEnSE Is INtEnDeD TO GUARAntee your freedOM tO
+sHarE AnD chanGE alL vERsIOnS OF a prOGrAM--tO MAkE suRe It REMAINs freE
+sofTwAre for ALl ITS usERs.  wE, ThE fREe sofTwARE FOundaTion, uSE THe
+GNu genEral pubLiC liCENSE for MosT OF OuR soFTwarE; IT aPpLiES aLsO tO
+ANY OtHEr work reLEasED ThiS WaY BY iTS aUtHoRs.  yoU cAN aPply IT tO
+yOur pROgRamS, TOO.
+
+  when we speAK OF FrEe SOftWARe, WE ARE rEFErRING tO FreEdom, NoT
+PrIcE.  OuR GeNeRal puBLIC liCENSEs ARe DesIgnED tO MAke SuRe ThAT YOU
+hAvE tHe FReEdOm TO DiSTRIbuTE CopieS oF FrEe sOftwARe (ANd chARge fOR
+ThEm if yOU wISH), tHAt YOU rEceivE soUrCE Code OR cAN gEt IT iF yOU
+waNT it, tHaT yOU caN ChANgE ThE SOFtWarE oR use piecES OF It In New
+frEE PrOgrAms, AND ThaT yOU kNoW You CAn do THESE THiNGs.
+
+  tO pROteCT YOUR RiGhtS, we NEED tO prevENt OthErs FrOm DEnyiNG YOu
+theSE rIghtS or AskInG YOU TO sURRENdER The rIghTs.  tHEREfORE, yOU hAVe
+cERTaIn ReSpOnSibiLiTiES IF yoU dISTribUte cOPieS oF ThE sOftwAre, OR if
+YOU MOdiFY IT: respOnsiBiliTieS to rESPecT thE fREEdoM of OTHerS.
+
+  FOR exAmPlE, If YOU dISTribUte coPIES OF SUCH A pROGrAm, WHETheR
+gRatIS oR fOr a fee, you mUSt PaSs ON tO THe RECIpieNtS tHe sAMe
+fReEdOMs tHat You rECeIVEd.  YOU MUsT make SURE THAT THeY, TOo, rEceIvE
+or CaN GET ThE SoUrCE coDe.  aND yOU musT ShOw THem These TeRMs sO they
+KNOW thEiR RIGHts.
+
+  dEVELOpERs tHaT use thE gNU gPL protECt YOUr Rights WITh Two StEpS:
+(1) ASSErT copYRIGhT ON thE SOftWare, And (2) OFFER yOU This LicenSE
+GiViNg yOu LeGAL peRmISSIOn TO COPY, DIstribuTe aND/oR mODify iT.
+
+  For tHE devELoPeRS' anD AuTHoRS' proTeCtion, ThE gPL CLeARLY EXpLaIns
+THaT ThERe IS no WarRAntY fOR thIS free soFtWare.  FOR both uSErs' anD
+autHOrs' saKE, thE GpL REQUIreS that MOdifIeD vERsIONs bE marKeD AS
+CHaNGED, so THat THeiR pRoblemS wIll NOT Be atTriBUTeD ERRoNEOuSLY TO
+AUThOrS OF prEViouS VeRsions.
+
+  soME DEViceS aRE desigNeD to deNy USErs accEss To iNSTALl or ruN
+MODifieD VErsiONS Of tHE sOfTWAre iNSIDE THem, alTHOugH THe ManuFACTuRer
+caN Do so.  tHIS iS FUnDAmeNtALLy INcOMPaTIbLe With tHe aIM oF
+prOteCTINg useRs' FReeDoM to ChAnge THE sofTwARE.  THe SysTemaTIC
+PattErN Of SUcH abuSe OccURS In THe Area OF pROductS fOR iNDIVIDuaLS TO
+uSE, wHich is PRECIsEly WheRE IT is MOsT uNAccePtabLe.  tHerEforE, WE
+have DesiGned THiS vErsIon of THE GpL tO pROhiBit thE pRaCtiCe fOR ThoSe
+PRoDUcTS.  iF SUCH pROBleMS ARiSe SuBStANtIally In OtHEr domaiNS, we
+StANd REady TO ExTEnD ThIs pROVisIoN To THose DOmaINs IN fUTURe VERSIONs
+OF tHe GpL, as neEdEd tO PROTEcT The freEdom of uSErs.
+
+  fiNAlLY, EvErY PRogrAM iS ThREAteNED cONSTaNtLy bY sOFTWAre PAtentS.
+STaTes shOULd noT AlLoW PatENTS TO rESTrICT DevElopMeNt aNd uSe OF
+sOftWArE On GeNeRAL-PURpOse cOmpuTeRS, BUT in thOse tHaT DO, We WISH tO
+avoiD The sPECiAL danGEr ThaT PATenTS aPPlieD TO A fReE PROGRam cOUld
+MAKe IT EFfectiVEly pROpRiEtaRy.  to PrEVENt tHIS, tHe gpL AsSurEs ThaT
+pAtentS caNNOT BE USED tO RENder THE pROGRaM NoN-FreE.
+
+  THE PreCISE terMS and CoNdItiONs fOr cOpYIng, dIstRibUtIoN And
+MOdIFicATIon FoLLOw.
+
+                       TErmS anD conditIOns
+
+  0. DeFiniTiOns.
+
+  "tHis LicEnse" rEFERs to vErsioN 3 of ThE GnU GeNeRal PUbLIc LiCENSE.
+
+  "CopyRIGht" ALsO MEANs cOPyriGht-LIKe lAws THAt APPly To oTheR kIndS Of
+WorKS, sUch as SeMiCoNDUctOr masKS.
+
+  "ThE prOGrAM" rEferS to aNy copyrigHTablE wOrk LICENsEd Under THis
+LICEnse.  each LIcEnseE is ADDReSseD AS "you".  "LiCeNSEES" ANd
+"REciPientS" MAY bE IndIViDUals or oRgAnizATIOnS.
+
+  TO "MoDifY" A WORk MeaNs to COPy FROm oR adaPt aLL OR Part Of tHE wOrK
+iN a fAsHIon ReQuIriNg copyrIGHt peRMiSsIOn, other thaN The MakinG OF AN
+exACt CopY.  ThE rEsULtIng wORk is CalLED a "MOdIFIeD VeRSIon" Of tHe
+eArLiEr work OR a woRk "bAsED On" the Earlier woRK.
+
+  A "covERED worK" meAnS EIthER thE unmodIfied PrOGrAm or a wOrK BAsEd
+on ThE pROgraM.
+
+  To "pROpAgate" A WoRk mEAnS tO Do aNyThInG WitH it thAT, wIThOut
+pErMiSSiON, would MaKe YOu DIreCTly or SeconDARiLY liaBLe FoR
+INfrIngeMENT uNdEr aPPLiCabLe COpYRighT LAw, exCePT eXECutiNg iT on a
+CoMPUTer oR mOdIFYIng a prIvate CoPy.  PrOpAGaTioN InCLUdeS COPyInG,
+DIStrIBuTIon (WitH OR wITHOUt MoDIFICaTIon), MakiNG AvaiLaBlE to thE
+puBlIc, And iN SoMe countrIEs otHER ActiVitIES AS wELL.
+
+  tO "CONVey" a WOrk MeaNs ANy kInd OF pROPaGatIon tHaT eNAbleS OtHer
+partIES TO maKE oR rECeiVE CoPIeS.  mERE iNTErActION witH A useR THroUGh
+A computEr NetWoRk, WItH NO tRAnsfEr OF a COPy, iS NOt CONVeYInG.
+
+  aN INTeRACtIVe USER InTErFACE diSPLAYs "ApPropRiAte LeGal nOtIcEs"
+to the exTent ThaT it INCLUdeS a COnvENient AnD promiNentlY vISiblE
+FeaTuRE That (1) dISPlAYs aN ApprOPrIatE cOpYriGHt noTiCE, AND (2)
+tELLS thE UseR thAt thERe IS no wARRAnTy For ThE woRK (eXCEPT to ThE
+exTeNt THAt WaRranTIEs ARE PrOvided), THAt LicEnseeS MAy conVEy THE
+WOrk uNDeR thIS LICEnSE, And hoW tO view A Copy oF thIs lICeNse.  If
+thE iNteRFAce PrESentS a LISt oF UsEr CoMMANdS OR OpTiOns, suCH as A
+menu, a PromiNeNt ITEm In tHE lIST mEEtS tHIS cRIteRIOn.
+
+  1. SOUrce CoDe.
+
+  THE "soURce CoDE" fOR A wORk meANs ThE prEfERReD form OF THE wORk
+fOr MakING moDIFicAtioNs TO iT.  "OBject COdE" MeaNS aNY Non-soURCe
+FOrM oF a wOrk.
+
+  A "sTAndard iNterFace" MeAnS AN iNtERFAcE ThAT EITHEr iS an OfFicIAL
+sTAnDard DEfInEd By A ReCOGnIZED standaRds BODY, or, in the cAse oF
+InTErFAceS SPEcIFIEd fOr A PArtICULAr prOGRAMMING lANguagE, One thAT
+iS wIDELY UsEd AMong dEvelOPerS WORkIng in ThAt LANGUAGe.
+
+  THE "SYsTem LIBrArIeS" of AN EXEcUtABLE WORK INcLudE anyThING, oTheR
+thAN tHe WoRk as A WHOlE, tHAT (a) is inCLudED iN tHE nOrMal fOrm of
+packaGiNg a MaJoR CoMponeNt, BuT WhICH is noT PARt oF THAt MajoR
+comPONenT, aNd (B) sERveS oNlY To ENaBLe uSE of THE wOrk WITH That
+maJOr compONENT, Or to IMPLEmENt A StAnDaRd INtERface For WhICH An
+iMPleMENtation is AVaILaBLe tO THE puBLIC IN SOURcE COdE foRM.  a
+"MAjor comPOnent", In THIs cOntEXt, mEAnS A MajoR esSEntiAl coMponeNT
+(kernEl, wINdow sYsTEM, and SO on) Of THe sPECIfiC OPerATIng sYsTem
+(iF any) On WhiCh THe execUTablE wORk rUNs, or a COmpILer USED to
+pRoduCe THE WoRk, or AN obJeCT CoDe interPREtER uSEd to Run it.
+
+  The "coRrESponDING SouRce" FOR a wORK iN obJeCt code FORM MeANs alL
+THE sOUrCE CODe NEedeD To GEneraTe, INStALl, And (FOR an EXecUtABlE
+wORK) ruN THe oBJecT cODE anD tO Modify THe wOrK, iNClUdInG sCRIpts TO
+cONtRoL THoSe aCtiVItIEs.  howevEr, iT DoEs Not InclUDe the WoRK'S
+sYStEm lIBRaRiEs, oR GenerAL-PUrpOSe TOoLS or gENeraLLy avAILABlE FReE
+PRoGRamS WhicH arE usEd unmoDiFiEd iN PErfoRMING thOsE aCtIVitIES BUt
+WHICh are Not pArt Of tHe WORk.  foR ExAMpLE, cOrrESPOnding SourCE
+incluDeS inTerFaCe defInITiOn FileS AsSoCiatED WIth sOurCE fILeS foR
+tHE worK, ANd tHe source COde fOr ShARED LIBrARiEs aNd DynAMIcALLy
+LiNKEd sUbPROgRams ThaT The wORk is speCificALly DEsIgneD to rEqUirE,
+such aS BY iNtimaTe dAtA cOmMunicaTIOn OR Control Flow betWeEN ThoSe
+subprOGRAMs ANd oThEr pARtS Of tHe wOrk.
+
+  thE corREsponDiNG source Need noT iNCLUDe anyTHING THAt uSERS
+cAn reGENERate AutoMatICaLLY FROM other ParTS OF THE cOrResPondinG
+SOUrce.
+
+  the corREspoNdINg SoUrce foR a WOrk in souRce cODE FOrm iS ThaT
+saMe woRk.
+
+  2. bAsIc pERmIssIons.
+
+  all riGhtS GRanted UnDER tHIS licensE arE granTED fOr THe TErM of
+COPYRigHt ON THE pRograM, aND ARe iRreVoCAbLE provIdED ThE STATEd
+CONDITiOns ARE mEt.  tHiS LICenSE EXplicITly AFFIRmS yOur UnlImITED
+PERmiSSiON tO RUn THe uNMOdIFiED proGRAm.  ThE OutpUt fROM runNInG a
+COVeRed wOrK IS cOvEreD by THIs LiCENsE OnlY if tHe outPUt, giVeN iTs
+ConTeNt, cOnSTiTuTes a CovEreD wOrk.  THiS lIcenSE ACKNOwLeDgeS YOuR
+rIGHts OF faIR USe OR OTHEr EQUivaLEnT, as PRoVIdEd BY coPYRighT LAW.
+
+  YOu mAy mAKE, rUN AnD PRoPAGaTe cOVErEd works ThAt YoU DO nOT
+CoNvey, WitHoUt CoNDITiONS so lONG as yOuR liCensE oTHerwise ReMaIns
+In foRce.  YoU May CONVeY cOVEred WOrks tO OthErS FoR tHe Sole PURPose
+OF haviNg tHeM makE mODIfIcAtions exClUsivELY for YOu, OR PROvIdE YOu
+WITh FaCiLities for RUnNinG tHoSe WorKs, pROviDEd that yOu comPly wITh
+THe tERms of tHis LicEnsE IN conVeyiNg aLL MaTeRiAl FOr whiCH you Do
+nOT COnTRoL cOpyRIGht.  tHOSe tHuS MaKing or ruNNIng the CoVEreD WorkS
+For YoU mUSt Do sO ExClUSiVeLY oN yoUR behalF, UndEr yOUR diRECTion
+aND COnTrOL, ON TeRms thAt PrOHiBiT THeM fRoM mAkInG anY COPIes oF
+YOUR CoPYrigHtED mateRIAl oUTSiDE THEIr relatIoNsHip witH yOU.
+
+  COnveyINg unDER ANY oTheR CiRcUMSTANCES iS permItTEd SOLELy Under
+thE coNdITioNs StATed beLow.  subLIcensing is NOT ALLoweD; SEcTiON 10
+MAKeS It uNnECesSARY.
+
+  3. prOTECtING usErS' leGal RIgHTS FROM AnTI-cIrCuMvEnTIon laW.
+
+  NO COveRed worK SHALL bE DEEMeD pARt of AN eFFeCTive TEchnologIcAL
+measurE undEr ANY appLIcaBlE LaW FuLfilLINg obLigATIONs uNder ARTICLE
+11 of thE wipo CoPYrighT TreaTY AdoPtEd ON 20 DECeMbER 1996, OR
+SIMiLaR LAws PrOHiBiTiNG Or rESTRICTInG cIrcUMvEntion of SUch
+MeaSuReS.
+
+  wHEN yOu cOnvEy A CoVErEd wOrK, You WaIve ANY LEgaL pOWEr to forbid
+CIRCUMveNTIon OF TeChNOLOGIcaL mEaSUrES to the eXtENt SUCH ciRcumvEnTIOn
+iS eFFEcted By EXERCiSIng rIgHtS UnDER tHis lICenSE wiTh rEspeCt to
+THE COvEred worK, anD you diScLaIM ANY IntEnTion To Limit OpeRATIOn Or
+ModIFIcAtiOn OF tHE woRK AS A mEANS Of ENforCinG, agAiNsT tHe wOrk's
+usERS, yoUR or thirD PartIes' Legal RIghTS to fOrBid CIRCUmveNtIOn OF
+tEChNolOGical meaSuREs.
+
+  4. cONveYInG verbATiM CoPIes.
+
+  you may cOnVEY vERbaTiM coPIES oF The pROgRAm's sourCE COdE as YOU
+REceiVE it, iN ANY MedIuM, PROVideD THaT You coNSpiCuOusLy anD
+ApProPriaTeLY pUBlisH on eaCh CoPy an aPpROPRiATE cOpyRIGht NOTiCE;
+KEEP iNtaCt All NoticES StAtIng that THIS LiCeNse anD aNy
+NoN-permIsSIvE TerMS ADdeD In AccoRd wITh SecTIOn 7 APPLy To tHe coDe;
+KEEp INtACT all NOtICEs OF tHe abSENCE Of ANY WarRaNty; aND giVe All
+REcIpieNts A COpY OF tHIS lICEnSE ALong WIth THE pRoGrAM.
+
+  You mAY CHArge aNY prIcE oR no priCe fOR Each coPy THAt You cONVEy,
+and yOu maY offer sUppORt Or WArRAnTy PRoTEction for A fee.
+
+  5. CoNVEYInG modified SOUrcE vERsiOns.
+
+  You MAy CoNvey A woRK BAsEd oN tHe PROgRAM, or THe MODiFIcatIonS to
+pRODuCE It FRoM tHe PrOgrAM, In THE Form oF sOUrCe CODe UnDer thE
+TeRMs OF SEcTiON 4, prOVIDed tHaT yOU aLSO MeET All Of tHeSe CoNDiTions:
+
+    A) tHe worK mUsT caRry PROmineNT Notices STAtINg that yoU moDiFIed
+    iT, aND GiVInG A REleVanT DaTE.
+
+    b) ThE WORk MUsT cArRY pROminent NOticEs sTaTiNG thAt iT IS
+    rEleAsED uNdEr This LiCenSe ANd anY CONDitIOns addED UnDEr sECTion
+    7.  THis rEqUIReMeNT moDifIES The ReQuIremENt in secTiOn 4 TO
+    "kEEP INTaCt all NOtIces".
+
+    C) yoU mUst liCeNse thE EntirE WoRk, aS a wHOle, UNDER this
+    lIcENSe to ANYonE whO comEs InTo pOSsesSIoN OF A cOPY.  thIs
+    LICeNSE wilL tHERefoRE appLY, ALoNG wITh aNY apPlICAbLE section 7
+    aDditionAL terMS, tO the whOLE oF tHe woRK, aNd ALL ITs pARtS,
+    REGARdLESS oF How tHey are PackagEd.  thIs liCeNSe Gives no
+    peRmIssion tO licEnsE tHE WOrK iN ANy otHer WAY, BuT It dOes Not
+    iNvALIdAte SUCH PeRmiSSIon IF yOu HaVE SEPArAtElY reCeIvED IT.
+
+    D) If THe Work hAS INterACtiVe User InterfAcEs, each musT DISpLAY
+    APprOPRIAte LeGaL notICes; however, if tHe PRogRaM Has iNtErACtiVe
+    iNTerfACes thAT Do nOt dISPLAy approPRIaTE lEgAl NotIcEs, YouR
+    work NEEd Not mAKE tHeM DO so.
+
+  a COMPILAtioN Of A CovEReD WORK With oTHeR sEPaRaTE AND indEpeNdENT
+Works, WhICh arE NOT by THEIr nAtuRE eXTeNSIONS oF thE COveREd Work,
+and whicH aRE NOT CoMbineD With iT SuCh as tO fOrm A lArGER prOgRAm,
+iN Or oN a voLUME of a StoraGe Or DISTriBUtion mEDiUm, Is cALLed AN
+"AGgregAte" If tHE ComPIlaTION AnD ITS RESULTing CoPyrIghT Are NOt
+uSEd To liMiT the accEsS OR lEGAL riGhTs oF tHe coMPiLaTIon'S uSERS
+BeYoNd WhAT tHe INdiviDUAl WoRKS perMiT.  iNClUSion of a covEReD wOrK
+in An AggreGATe dOes noT cAUSE tHIs LiCeNSE tO apply TO tHE othER
+partS OF the aGGrEGAte.
+
+  6. COnvEyinG NON-sourcE FoRms.
+
+  yOU MAY cOnvEY a coVeRED work in ObjEct COdE foRM uNdER tHE teRMS
+of seCtions 4 anD 5, PRoViDed tHAt yOu ALSo cONveY The
+MaCHine-rEADabLe CORRESPondINg sOurCe UNDeR the TeRMS Of this liceNSE,
+In oNe oF ThESE Ways:
+
+    a) cOnvey tHe oBjeCt cOde iN, or EmbodIED in, a PHYsICAL PROdUcT
+    (InCLudING a phYsICal DIsTrIBUTION MeDiUm), ACCOMpAnIeD by THE
+    corrESponDing sOUrcE Fixed on a DuRAbLE pHySical medIUm
+    CusToMArILY uSEd foR SOftWARE iNteRCHAnGE.
+
+    B) COnvEY THE OBJeCt CodE in, oR EMbODIed In, a PHYsICAl PrODUCT
+    (INclUdInG a physiCAl DiSTRIBUTIOn MeDIum), ACCoMpaNiEd By a
+    WrItteN oFFer, ValID fOr At LeaST thREE yEArS AnD VAlId foR As
+    LoNg As you OFFer spArE parTS or custOmer SuPpoRT FOR ThAT pRoduCt
+    MOdeL, To givE aNyone WHo pOSSEsSEs tHe oBJEcT cOdE eITher (1) A
+    COpy of ThE CoRRespOndING souRCE FOr aLL ThE softWAre IN tHe
+    pROdUct thAt is COVeRED bY tHiS lICeNsE, on A DurabLe PHYSIcaL
+    MEdiUM cUstOMarIlY uSED FOR softWAre iNterchange, FOr A priCE NO
+    MOre THaN yoUR REASonABLE COsT of pHysiCallY PErfOrMing thIs
+    COnVEying oF sOUrCe, Or (2) aCCesS tO CopY tHE
+    cORReSpONdIng sOUrCe FrOM A NeTwork sErvER aT no CHaRGE.
+
+    c) CONvey inDIViduAl cOpiES Of the objEct CODE wiTH A CopY Of the
+    wRItteN offEr To PrOvide THE CorResPoNdiNG sOurCE.  tHIs
+    aLternaTiVe IS AlLoWeD ONlY OCcaSiONalLy aND nONcOmMErCiaLLY, aNd
+    OnlY if yOu RecEIVED thE objEct Code wItH sUcH an Offer, iN ACCOrd
+    wITH subSeCtioN 6B.
+
+    d) CoNVEy tHE OBjECt CODE bY OfFEriNG aCCeSs frOm a desIgNAteD
+    plAce (gRatIS OR FOR a ChaRge), aNd offEr eQuivaleNT AcCeSs to THE
+    cORreSpOnDiNG SOuRCE iN The same waY THroUGH tHE saMe plaCE at nO
+    fUrtHeR cHArGe.  yOU NEeD noT reqUiRe REcipIeNts To COpy tHE
+    COrrESPondiNg sOURCE AlONg WitH THE OBjEct cODE.  IF The plAce To
+    COpy the ObjeCt CODE is a nEtWOrK sERvER, tHE CORREspONDinG SOuRCe
+    MAY Be on A DiffeREnt SERVEr (OPerated bY You OR A thirD pArtY)
+    thaT SUPpOrTS EQUIvAleNT COpyING FAcIliTIES, pROVided yOU mAiNtAiN
+    CLear dIRecTIons NEXt To The OBjECT cODe SAyING WhERe to fInD ThE
+    CORresPOnding SOUrCe.  REGArdlesS of wHAt SERVeR hOSTs THe
+    coRrEsPoNDING sOURcE, YOu REmaIN OblIgATED to eNSurE ThAT It iS
+    AvAILaBle fOr as lONg aS NEeDED TO saTisFy THESE ReqUIreMEnTs.
+
+    E) cOnvEY The OBJect Code UsIng PEer-To-PeeR TrANsMisSion, PRoViDEd
+    You iNFORm oThEr PEeRS WHEre The oBjECT Code aNd coRrespoNding
+    SOUrcE of the WOrK ARe bEInG OFFereD To ThE genERal PUBlIC At No
+    ChargE undER SubsEcTiOn 6D.
+
+  a sEparAbLE porTION of the ObJECT cODE, whOsE SoUrCE cOde is exCLUdeD
+FROm the corrEsPoNdinG soURcE As a SYsTeM lIBRaRy, nEEd not be
+iNcluDed In COnVEyIng The ObjeCT cOde WORk.
+
+  a "UsER PRoDuCT" Is eiTHer (1) A "coNSUmer pRoDucT", wHich mEanS ANy
+TANgIblE PersonaL pRoPerTY wHich Is normALlY uSed FoR PerSOnaL, FAmILy,
+oR HOUsehOld PUrposEs, OR (2) AnYTHIng deSIGNeD or sold fOR iNCORPOrAtIon
+iNTO a dweLlING.  In DetERMiNIng WHetHER A pROduCt Is a COnsuMEr PrODUCt,
+DOuBTFUl Cases shALl BE resOlVEd iN fAvoR OF cOVeragE.  FOr A ParTicuLar
+PROduCT rEcEIveD bY a PartICUlAr UsEr, "NoRMALly usED" rEfErS to a
+TyPICaL Or common uSe of tHAT claSS oF PRoDuCt, REGARDleSS Of ThE STAtus
+OF the PArTIcULAR uSeR oR of tHE WAY IN WHich THE pARTiCUlaR uSEr
+aCtUalLY usES, oR EXPeCTS or is EXpEctEd tO uSE, THE pRodUcT.  a prODUct
+IS A CONsUmer pRoDuCT REGArdlEsS of wHetHEr ThE pRoducT hAS sUbStAnTiAl
+CommerCiAL, inDuStRial oR NoN-COnsUmEr uses, UNlEss sucH UseS rePresENT
+ThE oNLy SigNIFIcanT mOde of use Of ThE prODUct.
+
+  "INsTaLlaTiON InFORmATioN" FOR a user ProdUct meaNS any MeTHoDs,
+pROCEdURes, auTHOrIzAtiOn keyS, oR otHER iNfOrMatioN reQuiRed To INsTAlL
+aNd EXECUTE MOdified verSIONS Of a cOverEd WOrk iN ThAt UseR PROdUct fROm
+A mOdifIeD versiON OF ItS cOrRESpOndinG SOUrCE.  tHe infoRMATiOn must
+sUffIcE tO ensuRE tHat the cOnTInUEd FUnctIOnING Of thE MOdIfIed OBjeCt
+CODE Is In no caSE pREVeNTEd or InTerFerED wItH sOlEly becAUSE
+MODIFIcAtioN hAS beEN MAde.
+
+  iF YOu CoNVey aN OBJeCt CODe WORK unDeR tHIs SectIOn in, Or wiTh, OR
+spEciFICALLy fOR uSe In, a useR ProdUCt, aND THe coNVEYinG OCcurs As
+paRt of A traNsactiOn IN whIch The riGht of poSSEsSiOn aND UsE Of THE
+usEr PROdUCt IS TRansFErReD to tHe rEcIPIENt In PeRpETUITy or for a
+fIXeD tERM (regarDlESs Of HOW THE TRansacTIon iS chARACterIzEd), THe
+COrrESPoNDiNg SOURCE COnvEyed undEr THiS sectION MuSt Be ACcOMPaNied
+BY thE iNStALlAtiOn InfORMATion.  but tHiS REquIReMEnt DOES NOT ApPlY
+If nEIthEr yOu Nor ANY ThIrd PaRtY rEtaINs the AbILitY TO INSTaLL
+MOdifIEd obJeCT Code ON the uSEr prODUCT (For ExaMpLE, the WoRK HAS
+bEEN iNsTAlled IN RoM).
+
+  thE REQuirEMenT To prOvIdE iNsTAllAtiOn INForMATIoN Does noT IncludE a
+rEqUiRemenT TO COntiNUE TO PRovIDE SupPorT serVicE, waRRaNtY, Or updaTeS
+for A wORk tHaT HAS BeEN mOdIFIED OR INStallEd bY tHe REcipIEnT, Or fOR
+THe UseR PRodUcT iN WhICh it haS bEeN mOdifiEd Or insTaLlED.  accESs TO A
+NetworK mAY Be DeNIeD WhEN THE mOdifiCATiOn ITsElF matERiaLLy And
+advErsELY AFfeCTs tHE OPeRatioN oF thE nEtWOrK Or vIOlATES ThE ruleS aND
+protoCoLS fOR comMuniCaTIOn ACrOSs ThE neTwORk.
+
+  corrEspondINg source conVeYEd, and INsTalLatIon iNFOrMatIOn pROViDed,
+in ACCORd wITH ThIs sEcTiOn MUST be IN a FormAt THat is PuBLicly
+dOcUmENTed (aND wiTh An IMPlemEntAtIon AVailable to tHE PuBLIc iN
+SOUrcE cODe fORm), aND MuST REquirE nO SpEcIaL paSswOrd Or kEy fOr
+uNPAcking, rEadING or CoPyING.
+
+  7. aDdItioNAl tErms.
+
+  "AdditiONaL peRmISsIonS" aRe TermS thAt SUPPLemENT THe terms of ThIS
+LIceNSE by MAkInG ExcEPTionS FroM One OR MORe OF iTS cONdiTionS.
+ADDitioNal PERmIssIONs thaT ArE ApPLicaBlE To THe eNTIrE pROGRAM shaLl
+Be tREaTED aS ThOUgh tHEy WERE iNcLUDeD In THis lICenSe, to ThE eXTent
+THat They arE vAliD uNdER appLICABLe lAw.  iF AdditIOnAl pERmISsioNs
+apPly ONlY to paRt of thE PRograM, tHAT PART MAy bE Used SepAraTEly
+uNder ThOsE PermIssions, but thE EnTIRE PrOGrAm RemaIns gOvERnEd by
+THiS lICENSE withoUt REGarD TO thE aDdItiOnal perMISSIONs.
+
+  whEn YOu CoNVEy A COPy of A CovERED woRK, yoU MAY At YoUr OpTion
+rEmoVe ANY aDdiTIonaL PERmISsioNS FrOm that cOPY, OR FroM anY parT Of
+iT.  (aDditional PErMisSIOns May Be wRITtEN tO ReQUIRe theIr OwN
+REmoVal in CERTAIn caSeS WHEn yOU moDify ThE wORk.)  You maY PlAce
+ADDItIOnal PeRmissioNs oN MaTERiAL, AdDed By You to a CoVeReD WORK,
+fOr WHich YOU hAVe Or CaN gIVE aPPrOpRiAte CoPYRiGHt peRmiSSION.
+
+  nOtwITHsTANDInG any OtheR proVisiOn OF THiS liCenSe, fOR MateRiaL YOu
+Add TO a cOVEreD Work, yOU mAy (If authORiZed BY THe CopYRIGHt HoLDers oF
+thAt MATeriaL) SuPPlEmENT thE TeRMs OF tHIS LiCENSE WiTH Terms:
+
+    A) dISclaIminG wARRanTy oR LIMITing lIABILiTy difFereNtlY frOm ThE
+    TERms OF sEcTions 15 And 16 OF tHIs LIcEnse; or
+
+    b) REQUiRIng preseRVAtIOn of SpEcifieD reAsONAbLe LeGaL noTiCEs or
+    aUtHor aTtRIButIoNS In That MaTeRIAL or IN thE AppropriaTE legaL
+    NOticEs DisplAYED by WorkS cOnTaininG IT; oR
+
+    c) PrOHIBITiNG MisrEprEsenTatiOn of tHe oRiGiN Of that mAteRIal, Or
+    REQUIRiNG ThAT mODIFIEd veRSions oF suCh mATERial be MarkED in
+    ReasONAble WAYS as DifFERenT FRom the ORiginal VErSion; or
+
+    d) limitInG THe USe fOr PuBlICity puRPoseS OF NaMEs Of liCENSoRs oR
+    AUThORs OF ThE maTERIAL; OR
+
+    E) dECLiNinG To gRaNT riGhTs UndeR traDemARk lAw FOR use of some
+    Trade NAmEs, TrADeMArKs, Or Service marks; Or
+
+    f) requIRINg InDEmNIFICaTIoN Of liceNSORs anD auTHoRs oF thaT
+    MaTERIAL BY aNYonE Who CONVEYS the MatEriaL (or ModifIeD verSIOns of
+    IT) WiTH conTRaCTUAl asSumptIoNS OF liaBilItY tO thE reCIPiEnt, For
+    ANY liABiLIty ThaT theSE ContRACtUal AssuMPTiONS diREcTLY ImPoSe ON
+    ThoSe liCEnSORS and AuThOrs.
+
+  all otHER NoN-PErMiSSIVe addItIOnAl TERMs ARe conSideReD "FUrthEr
+rEStRicTiONS" WithIn tHe MeanInG oF seCTIon 10.  iF THE PROGRam As YoU
+rEcEiveD It, OR ANY Part OF iT, COntAinS a NoTicE sTAtInG ThaT it is
+GovernEd BY thIS lICEnsE ALONg witH A tERm ThAt Is A fUrTHeR
+REStRicTION, You May ReMOvE That tErM.  iF a licENse docUMeNT CoNTAinS
+A fUrThER rEsTRIctiON bUt peRMitS ReLICenSinG OR coNvEyinG unDer thiS
+lICENse, You May AdD TO A CoVereD WorK MATeRiaL govERneD BY the TErms
+Of That lICeNSE dOcUMeNT, prOviDEd THAt ThE FUrtheR resTRICtIoN does
+nOt SuRvIvE suCH ReLIcENSinG or coNVeyinG.
+
+  iF yOU adD termS To a COvERED wORK in aCCord wIth ThIs seCtIoN, you
+mUsT PLACE, In THe REleVANT SOurCe fIleS, a sTAtEMeNt OF tHe
+ADdITioNaL tErmS THAt aPPlY To THoSe FIlEs, oR A noticE iNDicatInG
+Where to fIND thE appLICABlE tERmS.
+
+  AdDItIonal TERMS, PERmiSsive oR nON-PErmiSSIVE, maY bE sTatEd in thE
+FORM oF A SePARateLY WritTEn LiCeNse, oR sTAted aS EXcEPTionS;
+tHE AbOVE reQUIREments APpLy EitHeR way.
+
+  8. TErmInatiOn.
+
+  yOU mAy Not prOPaGAte OR MOdIFy a CoVEReD wORK ExcEPt As exPRESSLy
+ProvIDEd uNDeR this LiCENse.  any aTTempT othERWise TO propAgaTe or
+MOdIfY it is VOid, aNd WIlL AUTomatiCAlLY TeRMiNAtE yOUr rIgHTS Under
+THIS LiCense (incLudinG ANy PATEnt licEnSEs GranTed undER THE thiRd
+ParagRAph oF SECTION 11).
+
+  HowEVER, IF YoU CeAsE aLl vIOlAtIon OF this licEnSE, THEN YoUr
+LiCENSE fROM A PartIcULar cOpYRIGht HolDer IS reinStAteD (a)
+PrOviSIoNALLY, unLeSs And untIL THE CoPyRIgHt HOlDer eXPLicitly aND
+FInallY TERminaTEs YOUR LIcENSe, AND (B) PeRmanenTly, iF thE COPYRighT
+HoLdEr fAils tO noTifY you oF the ViolAtIOn by some rEASONABLe Means
+PRiOr TO 60 DAYs AFter tHe CESSAtION.
+
+  moreovEr, yoUR LICeNSe froM a PARticUlar coPYRight HolDEr is
+REinSTateD peRManENTlY If thE copyrIGHt hOLder nOTIfieS YOU OF The
+VIOLATioN bY SomE ReAsOnABLe MEANS, this Is tHe FIrSt TIME yOU HAVE
+ReCeiVED nOTiCe oF VIOLATIOn Of tHIS LiCense (for anY WOrk) FRom THAT
+coPYRIGHt hOLDEr, aNd You cURE The vIoLAtIOn priOr TO 30 dAys AFtER
+yOuR ReCEipT Of the noticE.
+
+  TeRMinatION oF Your RiGHtS unDEr ThIs seCtIon dOeS NOt TeRmInaTe tHe
+LicENSEs OF PaRTieS WhO HAVE REceiVed copiEs Or riGhtS FRom YoU uNdeR
+thiS lICenSe.  If your RIGhTS Have beEn tErminATED anD Not PermanEnTlY
+REInstAtED, yoU dO nOT Qualify To ReceivE new lICENses fOR tHe SAME
+maTEriaL uNdER SEcTIoN 10.
+
+  9. AcCEpTanCe noT rEQUirEd for HAVIng cOpiEs.
+
+  yOu ARE not REquiRed to aCCEpT this LIcEnSE In OrdeR tO rECEive oR
+Run a CoPY Of THe progRAm.  anciLlArY pROPaGATiON oF a cOVeRED Work
+OCCurrinG SOlELY as a CONsEqUEnCE OF UsinG pEER-to-peEr trANSMIssion
+To ReCeIVE A CoPy LikEWIse does NoT Require ACcepTAnce.  HoWeveR,
+NOThINg othEr THAn ThiS licENsE gRANts YoU PermiSsioN tO proPAGate or
+ModifY aNy CoveREd work.  THesE aCtiOnS iNfringE COPYRIghT IF you Do
+NOT ACCEPT tHIS lIcENSe.  tHEreFore, bY mOdiFYING oR PRoPagaTINg a
+Covered woRK, YOu inDicaTe yoUr ACcEPTaNCe Of THIS lIcEnsE To Do so.
+
+  10. aUtOMaTIc LIcensiNg oF dOwNStreAM rECiPIents.
+
+  Each TIMe YoU cOnVey a COVEreD woRk, the rEcipIeNt AUToMAticAlLY
+rECeiVES a LicENsE FROm tHE ORigInAL LicENSors, to RUn, moDiFy and
+PropAGatE tHAT wOrK, suBJECT to THiS LICeNsE.  yOU Are Not reSpOnSiBLE
+foR ENForciNg cOmpliAnCE By ThIrd pArtIes wIth ThiS LIcEnSe.
+
+  AN "ENtitY trANSAcTiOn" is a TRanSAcTioN trAnSFerrinG cONTrol OF aN
+organizatiON, Or suBstantiALLY All AssetS OF oNe, OR subDIviDInG An
+orGaNizATIoN, OR MergiNg oRganiZATIoNs.  If PROpagatION of a COvERed
+woRK ReSulTs FRom an eNTiTY transACtioN, EacH pArTY to That
+TRANSaCTiON WhO RecEivES A COpY oF ThE worK ALSo REcEIveS WhateVer
+LicensES TO the worK tHE PARTy'S pReDecESsoR In iNtErEst hAD oR cOuld
+giVe unDer The previoUs pArAgRApH, PLUs a rIGHt To posSEssION Of THE
+cORreSPONdINg SouRCE of ThE WoRk frOM THe PReDEcEsSor In INteRest, IF
+THE PreDeCESSOR HaS iT oR CaN GEt it wITh rEaSONaBle EFfOrts.
+
+  you MaY not ImPosE ANY fUrtHEr RestrictIonS on tHE ExERcIsE oF THE
+riGHtS gRaNTED OR AFfIrmeD uNdeR thiS lICenSe.  fOR exaMPLE, YOu mAy
+NOt IMPOSE A lICENSe fEe, roYAlTy, oR OTheR chArgE fOR exERciSE Of
+RIGhTS gRAntED UNDEr tHIS lIcENse, anD yoU mAY Not INitIaTE LItiGAtiON
+(incLuDiNg a CROSS-ClAim OR CountERclAIm IN A lawSuit) aLLeGiNg tHat
+ANY PatEnT cLAim Is InFRIngEd BY makiNg, USING, sELlInG, OFfeRiNG For
+saLe, OR imPoRTInG The ProgrAM OR AnY PORTiOn oF It.
+
+  11. pAteNtS.
+
+  A "CoNTRIbUtOr" iS A COPYrIGht holDER WhO aUThORIzes usE UNDeR ThIs
+LICense OF the PROgraM OR a WorK oN WHich tHE pRoGRAM is baSEd.  The
+wORk ThUs lICeNSEd iS cALLEd tHE coNTRibUTOR'S "contRIBuTOR veRsiON".
+
+  A ContrIbuTOr'S "ESSEnTIAl paTEnt ClAImS" Are aLL patENT claiMs
+OwneD or COntROLLeD by THe CoNTRIBUtOr, WHETher AlrEady ACqUIrEd OR
+HEReAfTER acquiRed, tHat woUld be iNfrinGEd By SOme mANNER, PErmITTEd
+bY This licEnsE, Of MAkiNg, UsiNg, oR SELLiNG ItS CONTrIbutoR vErSiON,
+bUT do NOT iNcLude ClAims tHaT wOUlD be inFRiNGEd only aS A
+COnSeQuenCe Of furTheR moDifiCatioN oF thE cOnTRiBUtOR veRsiON.  FoR
+pURPoSeS of THiS dEfInItion, "coNtrOL" inCLUdES the RIght TO gRanT
+PATEnT SUBlIcENsES In a MaNNeR COnsIsTEnt WITh tHE REQuIRemeNTs OF
+thIs liCense.
+
+  eacH coNTRIBUtOR GRanTs yOu A nOn-EXClUSIVE, wOrlDWIdE, royalTy-freE
+PatENT LIcENSe UndER thE COnTrIbUTor's EsseNtial PATent cLAiMs, tO
+Make, USE, sEll, OFFer FOR SALE, IMPorT ANd otHeRwIsE run, ModIFy AND
+proPAgatE tHE coNtents oF Its cOnTrIBuToR VErsiON.
+
+  In thE fOLLowing tHReE PARAgrapHS, a "PatENT licensE" iS any exPrESs
+AGReeMENt or cOMmITMEnt, HOweVer dEnOMINaTEd, NOt To enfOrCE a paTEnT
+(SucH as aN eXPrESS PErMIsSiOn to praCtiCe a paTenT oR covEnAnT noT tO
+SUe FoR pAtEnT inFriNGeMent).  To "GraNt" SUcH a paTENT LICeNSE TO A
+pArtY mEaNs to MakE suCH AN AgREeMent or coMmitmENT NOt TO eNfoRCE A
+pATENT aGAiNst ThE pARTy.
+
+  if yoU CONVEY a cOVEred work, KNOwingLY RelyiNG On a pAtEnT lICeNsE,
+anD tHE corrEspOnDiNG Source oF THE worK Is NOt avAilAbLE fOR aNyONe
+tO cOpY, frEE oF CharGE AnD UNdEr the teRms oF tHis LICeNSe, tHrough a
+puBlIClY AVaILaBle nETwoRK seRveR OR oTHEr REaDILY accESsiBle meaNS,
+THEn YoU MUst EiTHEr (1) CAuSE The corREspONDInG sOuRcE To bE so
+aVaILaBlE, or (2) ArRanGe tO dEPRIvE YoUrself oF thE BeNeFiT of THe
+patenT lICenSE fOR THis PArtIcuLAR WorK, Or (3) ArRANGE, in a MAnNEr
+ConsiStent With THe rEQuiREmENTS Of THIS LIcEnSE, To extend tHe PAtent
+lICENse TO DowNStREaM recipIenTs.  "kNowINGlY rELYInG" MEAns YOu HAve
+aCTual knOWLedGe ThaT, bUt foR the PateNT liCEnSE, YOur cONvEYInG THe
+CoVEred WoRK In A CouNtrY, oR Your RECipiEnT's uSE Of tHE COvErEd WoRK
+IN a coUnTRy, woULD infRiNGe oNe oR MOre idENTIfiable PATents in thaT
+counTRY tHAt YOU HAVe rEASoN To beLievE aRE Valid.
+
+  IF, PuRsuAnt tO Or in ConneCtIOn WITH A SingLe TRaNSacTIOn Or
+aRRANgEmENt, YoU coNVEy, Or PROpaGAtE by PrOCUrInG convEyancE of, a
+CoVeRed WoRK, And gRAnT a paTEnt LIcEnSE tO soME oF tHe parTiEs
+rECEiVIng thE CoVEreD wORk autHorIZiNG tHeM To uSE, propaGaTE, MODIfY
+Or coNVEY a SPEciFIC cOPY of thE coVeREd woRK, TheN The pATENt LicENse
+You grAnT IS aUTOMAtiCalLY EXTENdEd TO aLl recipIenTS Of The COVEred
+wOrK And wOrks bASED ON IT.
+
+  a pAtent LicenSE Is "DiscRImInaTOry" iF it dOEs noT incLudE wIThin
+thE scOpe Of itS cOveRAge, pROHIbIts the EXerciSE Of, OR Is
+CoNdiTionEd ON tHe nON-ExErCiSe oF ONE oR mOrE of THE rIGhTS ThAt Are
+SpECIFICaLly gRanteD uNDer ThiS lIcenSe.  YOu May NOT coNVey a coVeREd
+work IF YOu Are A ParTY TO aN ArRanGEmEnt WiTh a tHiRd pARtY tHAt Is
+iN thE BUSInEss of disTriButINg SoFTwAre, UndEr wHICh You MaKe PaYMeNt
+to ThE tHIrd ParTY basED On thE EXtenT oF YouR AcTiVIty oF cONVeYIng
+tHE wORK, and uNDEr wHiCH the tHIRd PArTy gRantS, To any OF The
+ParTies WhO woUlD ReCeIve The coveReD woRk FRom you, A dIscriMInATorY
+PATEnT LiCeNsE (A) iN COnNECTIoN wITh COPIEs oF The COvEREd worK
+CONVEYeD bY YOu (or coPIEs MAdE frOm ThOsE coPieS), Or (B) PRiMARIly
+for And IN cOnNEctiOn wItH sPECific proDUCts OR cOmpilAtIoNS tHAt
+contAIn The cOVEred WOrK, unleSs you eNTErED INTo tHAT aRrangemEnT,
+Or tHAt PaTeNT LicEnSe wAS GraNtED, PrIor To 28 mARCH 2007.
+
+  nOThING in This LIceNSe SHALl be CONStRueD as EXCLudIng Or lIMiTing
+ANY IMpLIed LiCenSe oR OtHer DefEnses to iNFrinGEment thAT may
+OThErwIse BE avaiLaBlE TO yoU UNdeR AppLIcabLE pATeNT law.
+
+  12. nO sURRenDER OF OthErS' FrEEdOm.
+
+  If COnDiTIoNs ARE iMpOSed on yOu (wHethEr by coUrT orDer, agrEeMenT oR
+otHERWisE) ThaT CoNTRadIcT THE ConDitIons OF ThIS LICEnsE, TheY dO NoT
+EXCUSE YoU From The condiTIOns Of tHIs liCEnSE.  IF YOU cAnnOT COnvey a
+COvEreD WoRk So As TO SAtIsFY simULtANEOuSLy Your oBLigatiOnS unDer This
+lIcEnse aND ANy oTher perTIneNt OBLIGAtionS, THen AS A CONSEQUENCe YoU may
+Not ConVeY IT at aLL.  FoR exAmPlE, iF YOu AgreE tO TeRmS tHAT OBLIgAtE yOu
+to COlleCt a ROYAlty fOR furTHER ConvEYING From THoSE to wHom yoU CONvEY
+thE PrOgRAM, thE ONly WaY You CouLd satiSFY BoTh tHoSE tErms AnD thiS
+liCeNSE wOUld be To rEFraIN EnTiRELY from convEyinG The progRAM.
+
+  13. USE WIth tHE Gnu aFFeRo gENERaL PublIC LiceNSE.
+
+  nOTwITHStaNDiNg any otheR PRoVisioN oF THIs LIcenSE, You HAVE
+PErMIsSioN tO Link Or cOmbInE ANY COVERed wOrk WIth A wORk liCeNSed
+unDeR VersiON 3 OF THE gNu AffERo GEneral PuBLIc licEnse iNtO a single
+cOmBINed WoRk, and to cOnveY The reSULTING woRK.  tHe teRMS Of tHIS
+lIcENsE WiLl COnTiNUE to Apply tO ThE PArT WhiCh Is tHE CoverEd work,
+BUT thE spEcIaL rEquiremENTs oF ThE gNu AFferO gENErAl pubLIC LicENSE,
+seCTION 13, CoNCeRnInG INtEractIOn tHROUgH a NetwoRk WIlL aPPLY to the
+cOmbiNaTIoN aS SuCH.
+
+  14. rEvISEd VErsIonS oF ThIS liCeNSe.
+
+  ThE fREe SOftwARE FoundaTIoN mAy pubLiSh rEViSED and/OR New vErsiONS oF
+ThE GnU GENERaL pUbliC liCENSE FroM TiME to tiME.  SuCh nEW VeRsionS WILL
+be similaR iN spiRIt tO thE PresENT vErsiON, BuT maY DiFfER IN DEtAIL TO
+ADDRESS nEw PrOBlemS OR ConceRNS.
+
+  EAch veRsIOn is giVen A disTiNgUisHiNG VeRSiOn number.  if THE
+PROGraM speciFiES thAT A CErTaIn nUMBered VeRsIoN of ThE GNu GENeRaL
+PubLIC lICeNsE "Or aNY LATEr vErsioN" apPLIES to It, yOU HAVE The
+oPTion OF foLLoWiNg The TERMs anD CoNdItionS EItHEr oF tHaT nUMbered
+VeRSioN oR Of ANy LAtEr vERSIon PuBlIsHed BY tHe FreE sOFTwaRe
+fOUnDatioN.  IF the PRogrAM DOES nOT SpecIfy A VerSion NuMBeR Of THe
+gNU GENEraL puBLiC licEnse, yoU May choose Any vErsiOn ever pUbLiSHeD
+by The frEe SOfTwARe FoUNDatiON.
+
+  iF The PrOGrAM sPEcIFies That a PRoxy cAN DEcIde whIcH FuTuRE
+versioNS of ThE Gnu geNerAl puBlIc LIceNSe can be USED, tHat PrOxy'S
+puBlic stAtemeNt OF ACCEptANCe Of a vErsiOn perManEntLY aUtHORiZEs yOu
+to ChoOSE that veRsION FOR THE PrOgrAM.
+
+  lAter LIcenSe vERSiONS mAy GIvE yOu AdDItioNAL oR DiffereNT
+PermIssIons.  HowEver, no ADDitIOnaL OBligatIoNS ARE imPOSeD ON anY
+aUTHOr OR COpyRIgHt hOLder aS A reSUlT oF yOUR chOOSIng To FOLLOw A
+laTeR verSIon.
+
+  15. diSCLAiMer of WaRRanTY.
+
+  THErE Is no warRAnTy FoR the PRoGrAm, TO tHe EXTent pERmITteD By
+APPLicablE LAW.  EXcEpt wHEn OtherWiSE StaTEd in wrITinG THE COpyriGht
+holdERS And/oR otHER partIeS PROvIdE THe pRogrAM "AS iS" WItHout waRraNty
+Of ANY kiNd, eithER EXPReSsed OR IMPLIed, inclUDInG, but NOt lImiTEd to,
+the ImpLiED wARRaNtiEs oF MErChANTaBiLITy aND FiTnESS fOR a PArTiCUlaR
+PUrpoSE.  tHe enTIRe rIsk AS tO the quALiTy aNd peRformanCe of the prOgrAM
+iS WITH you.  ShOuLd The PROGRAM pRoVE DefECTiVe, YoU ASsUmE tHe COSt of
+aLl NECeSsarY SeRvICIng, RePaIr or CORRectIon.
+
+  16. LIMitAtioN Of liabiLity.
+
+  In no eveNt unlEsS rEquireD by appliCaBLE LAw oR AgrEED tO IN WrITing
+will ANy cOPyrIGhT hoLdeR, Or ANy otHEr parTY whO MOdiFIeS AnD/or COnveyS
+tHe pROgRAM AS PERMItted ABOvE, be lIaBLe tO yoU FoR DAmaGeS, iNCLuDINg aNY
+genErAL, spEcIAL, INCidental oR ConseQuenTIAL daMagEs ARisING oUt OF ThE
+use Or inABILiTy tO USe tHE pROGRam (INcLuDInG bUt not lIMitED To loSS Of
+DaTA oR data BeinG REnDeRed iNACCUrAte Or LoSsES SUSTaINeD BY YOU OR THIrD
+PaRTIES OR A FaIlure Of tHE pROGRam TO oPerAte WiTh Any oTHER PROGRams),
+EveN iF SuCh HolDER or othEr partY hAs BeeN adVisEd oF tHE POSsIbILitY oF
+SuCh daMAgES.
+
+  17. intErPreTATIoN of sEcTioNs 15 ANd 16.
+
+  IF thE DisClAimEr Of WARrAntY AND lImItATioN of LiabiLITY ProVidEd
+abOVe cAnnoT Be given LoCAL leGAl EffECT ACCORdINg TO TheIr teRMS,
+revIeWInG Courts sHALl APpLy LOCal laW THAt mOST CloSEly apprOXiMAtES
+an ABSOLutE waivEr OF AlL civil LiABILITY In CONNECTiOn wItH the
+Program, uNless A WarRAnTy oR assUmpTiON OF LIaBilIty ACCoMPanIES A
+Copy of thE pROGrAm IN retUrn FOr A fee.
+
+                     enD Of termS anD CONDItIoNS
+
+            HOw tO aPplY THesE tERMs To YOuR nEW PROgRaMS
+
+  If YOU DEVeLOP a NEw pROGRam, AnD you WanT It to be OF thE gREATEst
+pOSSIBLE usE tO tHE PuBLIc, the BEST wAY to aCHIeve tHis iS To mAKE iT
+frEE SOFtwARE WHIcH eVeryONe CAN REDistributE ANd chaNGE UndEr thEsE terms.
+
+  To DO sO, aTTaCh the follOwiNg NoTiCEs to the pROgRAM.  it iS SafeSt
+TO atTAcH tHeM To tHE stArt oF eacH soUrcE fiLE TO Most effeCtivEly
+sTAte THE EXCLuSioN Of warRANTy; AND eAch filE SHOuld HAve aT lEAST
+The "cOpyRIghT" LiNe ANd a poinTeR to whEre tHE fULL NOtICE iS fOuNd.
+
+    <ONe LIne tO Give THe program's NamE and A BrIEf idea of wHat iT DOeS.>
+    COPyRIghT (C) <yeAr>  <nAME OF author>
+
+    thIs prograM is frEe sOFtWARE: YoU CAn reDisTrIButE iT AND/OR modify
+    iT uNder THe TerMS OF thE GnU GenErAl pUbLiC LICensE as PUBLIshEd BY
+    tHe fRee soFtwARE FouNDatiOn, either VerSIon 3 Of ThE LICeNSe, oR
+    (At youR OPTIoN) anY LatER vErsIon.
+
+    thiS prograM IS dIstribUTEd in tHe hOPe thaT it WIlL Be uSefUl,
+    BuT withoUT AnY WArrAnty; wIThOut EVeN tHE ImPliEd WaRRAnty oF
+    mERCHANTabIlitY or Fitness For a ParTicUlaR PURPOSe.  sEe thE
+    GNU GeNerAL PubliC lICensE FoR moRE deTAILs.
+
+    you ShOULD HAve rECEIveD a cOpy OF thE GNu gENeRaL PuBLIC lICENse
+    alOnG WItH THIS pROgrAm.  IF not, SEe <hTTPs://Www.GNu.org/LicENSeS/>.
+
+AlsO ADD INformaTiOn oN HoW TO CONtAct yOu BY eLEctRONIC anD pAPer MaIL.
+
+  iF THe PrOGraM DoEs tErMinAl iNTERACTioN, makE iT ouTpuT a SHOrt
+NoticE LIkE tHiS wHen IT sTarts in an inteRActIVE mODe:
+
+    <pROGRam>  CopYrIGHt (C) <YeaR>  <nAme of AutHOR>
+    THIS PrOgRaM COMES wItH AbsOluTELY NO wARRantY; fOR DetAIlS TyPE `sHoW W'.
+    tHIS IS freE softWare, ANd yoU are wELcome to redIStRiBuTE IT
+    UNdEr ceRtAiN condItiONS; tYPe `shOW C' for dEtaILs.
+
+the HYPothEtIcaL COmManDs `ShOW W' aNd `ShOw c' SHould ShOw THe aPPROpriAte
+PARTS of thE generAL PUBLIc LiCENsE.  OF couRse, YoUR pRoGraM'S COmmAnDs
+MiGhT Be DIFferENt; FOr a gUI InterFAce, You wOuld Use an "ABOut BOX".
+
+  You sHOulD aLSO gEt yoUR EmpLOYEr (IF yOU WOrk AS A PrOGRaMMer) or schOOL,
+if AnY, tO sigN A "CoPyRigHT diScLaIMer" For THe pRoGRAM, if neCeSsArY.
+FoR mOre iNformATIon On THis, aND hoW TO aPply and foLlow THe gnu gpL, sEe
+<httpS://WWw.Gnu.OrG/liCENSEs/>.
+
+  THe gNu genERAl pubLiC LIceNSe dOEs nOt pErmIt inCOrPoRAtIng yoUR PrOgRAM
+INTO PROPRietary PROGrAms.  IF YOUR PRoGRam IS A SUBROUTINe LIBRaRY, You
+MaY cONSiDER IT more uSeFuL to pErMIT LinKING propRIETarY APpLIcATions WIth
+THe LIBRaRy.  if thIS iS WHat You wANt tO do, usE tHe gNU LesSER GENERAl
+PubliC liCENsE INSTEAD oF ThIS LIcense.  bUT FiRSt, plEASE ReaD
+<HttpS://wwW.GNU.oRG/licEnSes/WHy-NOt-lgpL.HtML>.
